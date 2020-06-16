@@ -84,35 +84,11 @@
                   <div class="level0"><span class="xref">System.Object</span></div>
                   <div class="level1"><span class="xref">AssociationExtensions</span></div>
               </div>
-              <div class="inheritedMembers">
-                <h5>Inherited Members</h5>
-                <div>
-                  <span class="xref">System.Object.Equals(System.Object)</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.GetHashCode()</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.GetType()</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.MemberwiseClone()</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.ToString()</span>
-                </div>
-              </div>
               <h6><strong>Namespace</strong>:EvilDICOM.Network.Extensions</h6>
               <h6><strong>Assembly</strong>:EvilDICOM.dll</h6>
               <h5 id="_syntax">Syntax</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public static class AssociationExtensions</code></pre>
+                <pre><code class="lang-csharp hljs">public static class AssociationExtensions : object</code></pre>
               </div>
               <h3 id="methods">Methods
               </h3>
@@ -120,7 +96,7 @@
               <span class="small pull-right mobile-hide">
                 <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Network/Extensions/AssociationExtensions.cs/#L22">View Source</a>
               </span>
-              <h4 id="methods" data-uid="EvilDICOM.Network.Extensions.AssociationExtensions.GetResponseContexts(EvilDICOM.Network.Association,System.Collections.Generic.IEnumerable{EvilDICOM.Network.PDUs.Items.PresentationContext})">GetResponseContexts(Association, IEnumerable&lt;PresentationContext&gt;)</h4>
+              <h4 id="methods" data-uid="EvilDICOM.Network.Extensions.AssociationExtensions.GetResponseContexts(EvilDICOM.Network.Association,IEnumerable{EvilDICOM.Network.PDUs.Items.PresentationContext})">GetResponseContexts(Association, IEnumerable&lt;PresentationContext&gt;)</h4>
               <div class="markdown level1 summary"><p>Takes two sets of presentation contexts (typically from a request and a DICOM Service) and creates the 
 agreed presentation context list for the accept response</p>
 </div>
@@ -145,7 +121,7 @@ agreed presentation context list for the accept response</p>
                     <td></td>
                   </tr>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.IEnumerable</span>&lt;<a class="xref" href="EvilDICOM.Network.PDUs.Items.PresentationContext.html">PresentationContext</a>&gt;</td>
+                    <td><span class="xref">IEnumerable</span>&lt;<a class="xref" href="EvilDICOM.Network.PDUs.Items.PresentationContext.html">PresentationContext</a>&gt;</td>
                     <td><em>reqContexts</em></td>
                     <td></td>
                   </tr>
@@ -161,7 +137,7 @@ agreed presentation context list for the accept response</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EvilDICOM.Network.PDUs.Items.PresentationContext.html">PresentationContext</a>&gt;</td>
+                    <td><span class="xref">List</span>&lt;<a class="xref" href="EvilDICOM.Network.PDUs.Items.PresentationContext.html">PresentationContext</a>&gt;</td>
                     <td></td>
                   </tr>
                 </tbody>

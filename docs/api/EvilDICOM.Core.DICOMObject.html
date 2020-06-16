@@ -86,26 +86,11 @@ structure.</p>
                   <div class="level0"><span class="xref">System.Object</span></div>
                   <div class="level1"><span class="xref">DICOMObject</span></div>
               </div>
-              <div class="inheritedMembers">
-                <h5>Inherited Members</h5>
-                <div>
-                  <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.GetType()</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.MemberwiseClone()</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
-                </div>
-              </div>
               <h6><strong>Namespace</strong>:EvilDICOM.Core</h6>
               <h6><strong>Assembly</strong>:EvilDICOM.dll</h6>
               <h5 id="_syntax">Syntax</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public class DICOMObject</code></pre>
+                <pre><code class="lang-csharp hljs">public class DICOMObject : object</code></pre>
               </div>
               <h3 id="constructors">Constructors
               </h3>
@@ -155,7 +140,7 @@ structure.</p>
               <span class="small pull-right mobile-hide">
                 <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L47">View Source</a>
               </span>
-              <h4 id="constructors" data-uid="EvilDICOM.Core.DICOMObject.#ctor(System.Collections.Generic.List{EvilDICOM.Core.Interfaces.IDICOMElement})">DICOMObject(List&lt;IDICOMElement&gt;)</h4>
+              <h4 id="constructors" data-uid="EvilDICOM.Core.DICOMObject.#ctor(List{EvilDICOM.Core.Interfaces.IDICOMElement})">DICOMObject(List&lt;IDICOMElement&gt;)</h4>
               <div class="markdown level1 summary"><p>Contructor with elements</p>
 </div>
               <div class="markdown level1 conceptual"></div>
@@ -174,7 +159,7 @@ structure.</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
+                    <td><span class="xref">List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
                     <td><em>elements</em></td>
                     <td><p>a list of elements to be included in the object</p>
 </td>
@@ -205,7 +190,7 @@ structure.</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
+                    <td><span class="xref">List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
                     <td></td>
                   </tr>
                 </tbody>
@@ -232,14 +217,14 @@ structure.</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
+                    <td><span class="xref">List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
                     <td></td>
                   </tr>
                 </tbody>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L609">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L628">View Source</a>
               </span>
               <h4 id="properties" data-uid="EvilDICOM.Core.DICOMObject.SOPClass">SOPClass</h4>
               <div class="markdown level1 summary"></div>
@@ -299,7 +284,7 @@ structure.</p>
               <span class="small pull-right mobile-hide">
                 <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L127">View Source</a>
               </span>
-              <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.AddRange(System.Collections.Generic.IEnumerable{EvilDICOM.Core.Interfaces.IDICOMElement})">AddRange(IEnumerable&lt;IDICOMElement&gt;)</h4>
+              <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.AddRange(IEnumerable{EvilDICOM.Core.Interfaces.IDICOMElement})">AddRange(IEnumerable&lt;IDICOMElement&gt;)</h4>
               <div class="markdown level1 summary"><p>Adds elements to the DICOM object</p>
 </div>
               <div class="markdown level1 conceptual"></div>
@@ -318,7 +303,7 @@ structure.</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.IEnumerable</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
+                    <td><span class="xref">IEnumerable</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
                     <td><em>els</em></td>
                     <td></td>
                   </tr>
@@ -326,7 +311,7 @@ structure.</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L695">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L714">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Clone">Clone()</h4>
               <div class="markdown level1 summary"><p>Creates a clone of this DICOM object</p>
@@ -354,7 +339,7 @@ structure.</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L684">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L703">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Equals(System.Object)">Equals(Object)</h4>
               <div class="markdown level1 summary"></div>
@@ -395,8 +380,6 @@ structure.</p>
                   </tr>
                 </tbody>
               </table>
-              <h5 class="overrides">Overrides</h5>
-              <div><span class="xref">System.Object.Equals(System.Object)</span></div>
               
               <span class="small pull-right mobile-hide">
                 <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L269">View Source</a>
@@ -437,7 +420,7 @@ structure.</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
+                    <td><span class="xref">List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
                     <td><p>a list of all elements that meet the search criteria</p>
 </td>
                   </tr>
@@ -486,7 +469,7 @@ searched for</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
+                    <td><span class="xref">List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
                     <td><p>a list of all elements that meet the search criteria</p>
 </td>
                   </tr>
@@ -532,7 +515,7 @@ searched for</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
+                    <td><span class="xref">List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
                     <td><p>a list of all elements that meet the search criteria</p>
 </td>
                   </tr>
@@ -578,7 +561,7 @@ searched for</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
+                    <td><span class="xref">List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
                     <td><p>a list of all elements that meet the search criteria</p>
 </td>
                   </tr>
@@ -627,7 +610,7 @@ being searched for</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
+                    <td><span class="xref">List</span>&lt;<a class="xref" href="EvilDICOM.Core.Interfaces.IDICOMElement.html">IDICOMElement</a>&gt;</td>
                     <td><p>a list of all elements that meet the search criteria</p>
 </td>
                   </tr>
@@ -655,7 +638,7 @@ being searched for</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;T&gt;</td>
+                    <td><span class="xref">List</span>&lt;T&gt;</td>
                     <td><p>a list of all elements that are strongly typed</p>
 </td>
                   </tr>
@@ -771,7 +754,7 @@ being searched for</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L599">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L618">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.GetBytes(EvilDICOM.Core.IO.Writing.DICOMIOSettings)">GetBytes(DICOMIOSettings)</h4>
               <div class="markdown level1 summary"></div>
@@ -814,7 +797,7 @@ being searched for</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L718">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L737">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.GetHashCode">GetHashCode()</h4>
               <div class="markdown level1 summary"></div>
@@ -838,8 +821,6 @@ being searched for</p>
                   </tr>
                 </tbody>
               </table>
-              <h5 class="overrides">Overrides</h5>
-              <div><span class="xref">System.Object.GetHashCode()</span></div>
               
               <span class="small pull-right mobile-hide">
                 <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L460">View Source</a>
@@ -908,7 +889,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;T&gt;</td>
+                    <td><span class="xref">List</span>&lt;T&gt;</td>
                     <td><p>the unknown elements strongly typed to T</p>
 </td>
                   </tr>
@@ -972,7 +953,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;T&gt;</td>
+                    <td><span class="xref">List</span>&lt;T&gt;</td>
                     <td><p>the unknown elements strongly typed to T</p>
 </td>
                   </tr>
@@ -1146,7 +1127,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Threading.Tasks.Task</span>&lt;<a class="xref" href="EvilDICOM.Core.DICOMObject.html">DICOMObject</a>&gt;</td>
+                    <td><span class="xref">Task</span>&lt;<a class="xref" href="EvilDICOM.Core.DICOMObject.html">DICOMObject</a>&gt;</td>
                     <td><p>the DICOM Object</p>
 </td>
                   </tr>
@@ -1219,7 +1200,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               <span class="small pull-right mobile-hide">
                 <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L397">View Source</a>
               </span>
-              <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.RemoveRange(System.Collections.Generic.IEnumerable{EvilDICOM.Core.Element.Tag})">RemoveRange(IEnumerable&lt;Tag&gt;)</h4>
+              <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.RemoveRange(IEnumerable{EvilDICOM.Core.Element.Tag})">RemoveRange(IEnumerable&lt;Tag&gt;)</h4>
               <div class="markdown level1 summary"><p>Removes the element with the tag from the DICOM object</p>
 </div>
               <div class="markdown level1 conceptual"></div>
@@ -1238,7 +1219,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.IEnumerable</span>&lt;<a class="xref" href="EvilDICOM.Core.Element.Tag.html">Tag</a>&gt;</td>
+                    <td><span class="xref">IEnumerable</span>&lt;<a class="xref" href="EvilDICOM.Core.Element.Tag.html">Tag</a>&gt;</td>
                     <td><em>tags</em></td>
                     <td></td>
                   </tr>
@@ -1248,7 +1229,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               <span class="small pull-right mobile-hide">
                 <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L368">View Source</a>
               </span>
-              <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.RemoveRange(System.Collections.Generic.IEnumerable{System.String})">RemoveRange(IEnumerable&lt;String&gt;)</h4>
+              <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.RemoveRange(IEnumerable{System.String})">RemoveRange(IEnumerable&lt;String&gt;)</h4>
               <div class="markdown level1 summary"><p>Removes the element with the tag from the DICOM object</p>
 </div>
               <div class="markdown level1 conceptual"></div>
@@ -1267,7 +1248,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.IEnumerable</span>&lt;<span class="xref">System.String</span>&gt;</td>
+                    <td><span class="xref">IEnumerable</span>&lt;<span class="xref">System.String</span>&gt;</td>
                     <td><em>tags</em></td>
                     <td></td>
                   </tr>
@@ -1275,7 +1256,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L642">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L661">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Replace(EvilDICOM.Core.Element.AbstractElement{EvilDICOM.Core.DICOMObject})">Replace(AbstractElement&lt;DICOMObject&gt;)</h4>
               <div class="markdown level1 summary"></div>
@@ -1318,7 +1299,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L647">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L666">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Replace(EvilDICOM.Core.Element.AbstractElement{EvilDICOM.Core.Element.Tag})">Replace(AbstractElement&lt;Tag&gt;)</h4>
               <div class="markdown level1 summary"></div>
@@ -1361,7 +1342,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L672">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L691">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Replace(EvilDICOM.Core.Element.AbstractElement{System.Byte})">Replace(AbstractElement&lt;Byte&gt;)</h4>
               <div class="markdown level1 summary"></div>
@@ -1404,7 +1385,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L632">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L651">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Replace(EvilDICOM.Core.Element.AbstractElement{System.Double})">Replace(AbstractElement&lt;Double&gt;)</h4>
               <div class="markdown level1 summary"></div>
@@ -1447,7 +1428,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L667">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L686">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Replace(EvilDICOM.Core.Element.AbstractElement{System.Int16})">Replace(AbstractElement&lt;Int16&gt;)</h4>
               <div class="markdown level1 summary"></div>
@@ -1490,7 +1471,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L657">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L676">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Replace(EvilDICOM.Core.Element.AbstractElement{System.Int32})">Replace(AbstractElement&lt;Int32&gt;)</h4>
               <div class="markdown level1 summary"></div>
@@ -1533,7 +1514,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L677">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L696">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Replace(EvilDICOM.Core.Element.AbstractElement{System.Nullable{System.DateTime}})">Replace(AbstractElement&lt;Nullable&lt;DateTime&gt;&gt;)</h4>
               <div class="markdown level1 summary"></div>
@@ -1576,7 +1557,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L627">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L646">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Replace(EvilDICOM.Core.Element.AbstractElement{System.Single})">Replace(AbstractElement&lt;Single&gt;)</h4>
               <div class="markdown level1 summary"></div>
@@ -1619,7 +1600,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L637">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L656">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Replace(EvilDICOM.Core.Element.AbstractElement{System.String})">Replace(AbstractElement&lt;String&gt;)</h4>
               <div class="markdown level1 summary"></div>
@@ -1662,7 +1643,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L662">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L681">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Replace(EvilDICOM.Core.Element.AbstractElement{System.UInt16})">Replace(AbstractElement&lt;UInt16&gt;)</h4>
               <div class="markdown level1 summary"></div>
@@ -1705,7 +1686,7 @@ in the DICOM dictionary) and reads them as the specified VR type</p>
               </table>
               
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L652">View Source</a>
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L671">View Source</a>
               </span>
               <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.Replace(EvilDICOM.Core.Element.AbstractElement{System.UInt32})">Replace(AbstractElement&lt;UInt32&gt;)</h4>
               <div class="markdown level1 summary"></div>
@@ -2229,8 +2210,6 @@ will add it to the object.</p>
                   </tr>
                 </tbody>
               </table>
-              <h5 class="overrides">Overrides</h5>
-              <div><span class="xref">System.Object.ToString()</span></div>
               
               <span class="small pull-right mobile-hide">
                 <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L142">View Source</a>
@@ -2372,7 +2351,7 @@ true, otherwise returns false;</p>
               <span class="small pull-right mobile-hide">
                 <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L182">View Source</a>
               </span>
-              <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.TrySetDataValue``1(EvilDICOM.Core.Element.Tag,System.Collections.Generic.List{``0})">TrySetDataValue&lt;T&gt;(Tag, List&lt;T&gt;)</h4>
+              <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.TrySetDataValue``1(EvilDICOM.Core.Element.Tag,List{``0})">TrySetDataValue&lt;T&gt;(Tag, List&lt;T&gt;)</h4>
               <div class="markdown level1 summary"><p>Searches for a specific element (first instance). If it is found, it sets the data for this element and returns
 true, otherwise returns false;</p>
 </div>
@@ -2398,7 +2377,7 @@ true, otherwise returns false;</p>
 </td>
                   </tr>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;T&gt;</td>
+                    <td><span class="xref">List</span>&lt;T&gt;</td>
                     <td><em>data</em></td>
                     <td><p>the data to set in this element</p>
 </td>
@@ -2448,6 +2427,42 @@ true, otherwise returns false;</p>
               <h5 class="decalaration">Declaration</h5>
               <div class="codewrapper">
                 <pre><code class="lang-csharp hljs">public void Write(string file, DICOMIOSettings settings = null)</code></pre>
+              </div>
+              <h5 class="parameters">Parameters</h5>
+              <table class="table table-bordered table-striped table-condensed">
+                <thead>
+                  <tr>
+                    <th>Type</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><span class="xref">System.String</span></td>
+                    <td><em>file</em></td>
+                    <td><p>the path to write</p>
+</td>
+                  </tr>
+                  <tr>
+                    <td><a class="xref" href="EvilDICOM.Core.IO.Writing.DICOMIOSettings.html">DICOMIOSettings</a></td>
+                    <td><em>settings</em></td>
+                    <td><p>the DICOM settings to write (endianness, and indefinite sequences)</p>
+</td>
+                  </tr>
+                </tbody>
+              </table>
+              
+              <span class="small pull-right mobile-hide">
+                <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMObject.cs/#L604">View Source</a>
+              </span>
+              <h4 id="methods" data-uid="EvilDICOM.Core.DICOMObject.WriteAddMeta(System.String,EvilDICOM.Core.IO.Writing.DICOMIOSettings)">WriteAddMeta(String, DICOMIOSettings)</h4>
+              <div class="markdown level1 summary"><p>Same function as write, but adds required metadata for file (often missing in DICOM objects transferred over a network)</p>
+</div>
+              <div class="markdown level1 conceptual"></div>
+              <h5 class="decalaration">Declaration</h5>
+              <div class="codewrapper">
+                <pre><code class="lang-csharp hljs">public void WriteAddMeta(string file, DICOMIOSettings settings = null)</code></pre>
               </div>
               <h5 class="parameters">Parameters</h5>
               <table class="table table-bordered table-striped table-condensed">

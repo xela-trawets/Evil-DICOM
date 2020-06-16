@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Git/Evil-DICOM/EvilDICOM/EvilDICOM.DocFx",
+  "source_base_path": "C:/Users/Xela/Source/Repos/Evil-DICOM/EvilDICOM/EvilDICOM.DocFx",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.AnonymizationQueue.html",
-          "hash": "4VfIo0g0vHZnUfDMEFjTUg=="
+          "hash": "wFQv+CUF7EgFpzB7eHhSVg=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Anonymizers.DICOMFileType.html",
-          "hash": "PZE72/R7wS54iooDveAzpw=="
+          "hash": "QkMFZx5ObtxRuiBTrbQP6g=="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Anonymizers.DICOMStudy.html",
-          "hash": "DZvJeTAk21gDmoPAIl3YXA=="
+          "hash": "GuR0ICEbS6aZijTKMOrjmg=="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Anonymizers.DateAnonymizer.html",
-          "hash": "tmnXHvyK2MWsLDeca3v5rA=="
+          "hash": "a69rqtL1s6upb3oajW/VMw=="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Anonymizers.NameAnonymizer.html",
-          "hash": "RCnsz7QmyKTr141STAC+Dw=="
+          "hash": "no3vnlA/LPjmmmz0NiiKmw=="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Anonymizers.PatientIdAnonymizer.html",
-          "hash": "f6hrsGeDPUNmRKNiLbNkLA=="
+          "hash": "RL71JfbvacP+ppA2jIZ5TQ=="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Anonymizers.PrivateTagAnonymizer.html",
-          "hash": "xuJMfm+BOzYeNiMTvEMgLg=="
+          "hash": "JHsHQakiB7i69AQ3xoBHqw=="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Anonymizers.ProfileAnonymizer.html",
-          "hash": "ya3LktMfaF6pYcWhgl8pPQ=="
+          "hash": "cS3SJ8007b7EjduPVAXH1Q=="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Anonymizers.StudyIdAnonymizer.html",
-          "hash": "uHDIJhnke8Q0z7Lox3WKDw=="
+          "hash": "+DyiWDrMhZaEZZZdWoEIuQ=="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Anonymizers.UIDAnonymizer.html",
-          "hash": "BAv5LpZ/Aflvg+LRVUeouQ=="
+          "hash": "YCUj1+zZ7TixKCnG4nDyCw=="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Helpers.DateHelper.html",
-          "hash": "WEiZ1aJYPY7jyMoRLtN5Vw=="
+          "hash": "g+mx+unBtRcs4jXPgbj9Aw=="
         }
       },
       "is_incremental": false,
@@ -189,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Settings.AnonymizationSettings.html",
-          "hash": "Y3hG/uuzCdLIlez/7WjwMg=="
+          "hash": "XQM2Cf5TD7qwtqUvRBVgPg=="
         }
       },
       "is_incremental": false,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Anonymization.Settings.DateSettings.html",
-          "hash": "7upd49Q48asbsTKXAObVYA=="
+          "hash": "AZiN1wjhgJ3VnXxXPgxUGQ=="
         }
       },
       "is_incremental": false,
@@ -237,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Drawing.Renderers.FieldRenderer.html",
-          "hash": "LdS4koYUepVSR0uy6tVUdw=="
+          "hash": "+aoEF9pjKLQwyhfUVr9wuw=="
         }
       },
       "is_incremental": false,
@@ -249,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Drawing.Renderers.GraticuleRenderer.html",
-          "hash": "cBAGZUj5Vg4KFAeOGTvRug=="
+          "hash": "XvrTcLjHWqyVH3/zRPa5nw=="
         }
       },
       "is_incremental": false,
@@ -261,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Drawing.Renderers.SliceRenderer.html",
-          "hash": "iqPT/Z/B2h1c/l9QBGFlcw=="
+          "hash": "B9rlD+eKxjRakTJ9fT/pcg=="
         }
       },
       "is_incremental": false,
@@ -285,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Drawing.StructureLook.html",
-          "hash": "7F19GWqzq5uje8zy5PNMyA=="
+          "hash": "JZ7d5lUtiOQu/Smowrv0ww=="
         }
       },
       "is_incremental": false,
@@ -297,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Drawing.StructureLooks.html",
-          "hash": "A8g/V0jbn1fNTj8vyD/uyg=="
+          "hash": "xU7xykyDvlT8zTGMZn50mQ=="
         }
       },
       "is_incremental": false,
@@ -321,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Extensions.ArrayExtensions.html",
-          "hash": "w+7qeS+oYVdi40avMZ40IA=="
+          "hash": "zQ4j4ahuPiF5AROh1WtgbA=="
         }
       },
       "is_incremental": false,
@@ -333,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Extensions.DVHDataExtensions.html",
-          "hash": "aVJNnILH9MyEXupmmSDOuQ=="
+          "hash": "MBYY37znXpTXLlH7jUOiQg=="
         }
       },
       "is_incremental": false,
@@ -345,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Extensions.DoseMatrixExtensions.html",
-          "hash": "fqFmYC1DmKQEh7gf0sUqdg=="
+          "hash": "9w0vMZPWRFZb9qXtI8FL9g=="
         }
       },
       "is_incremental": false,
@@ -357,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Extensions.MatExtensions.html",
-          "hash": "fG8DvLoxyFFLX5Q5syf3QA=="
+          "hash": "JgUHNdMwjVrGQkfJpy7FIQ=="
         }
       },
       "is_incremental": false,
@@ -369,7 +369,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Extensions.MatrixExtensions.html",
-          "hash": "xF26XAdMRyK8g0kygUn7nA=="
+          "hash": "WEC18Nh/GykuyyE9N8EIZw=="
         }
       },
       "is_incremental": false,
@@ -381,7 +381,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Extensions.StructureExtensions.html",
-          "hash": "2vEt3DF1RllpFN09vpwPiw=="
+          "hash": "X+EKqRFGHTVXrfjm/zpz+w=="
         }
       },
       "is_incremental": false,
@@ -405,7 +405,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Geometry.Isosurfaces.MachingCubes.html",
-          "hash": "5dtEs2d7uNvRolzpXqKtew=="
+          "hash": "kNHq3J8p1f3bgz3ehwCBzg=="
         }
       },
       "is_incremental": false,
@@ -417,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Geometry.Isosurfaces.Tables.html",
-          "hash": "846oztEjbiAI3MbOYOS1+A=="
+          "hash": "oaEoTLd7BuE5kIx5zsP5bg=="
         }
       },
       "is_incremental": false,
@@ -441,7 +441,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Geometry.Mesh.html",
-          "hash": "X33oEzOjvOD5VPQ7RjoS7A=="
+          "hash": "t2POLBDCGnpDSlfvJ0puLQ=="
         }
       },
       "is_incremental": false,
@@ -453,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Geometry.ObjFileWriter.html",
-          "hash": "v5XrtfgkV0bbFEvDfoCWww=="
+          "hash": "jKLDfDCpGcqz8QXF3vtFpg=="
         }
       },
       "is_incremental": false,
@@ -465,7 +465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Geometry.Triangle.html",
-          "hash": "lLdcZ8Mv39FKJsNarVxf2A=="
+          "hash": "wlhVe0di5naWX1XxCOeX4Q=="
         }
       },
       "is_incremental": false,
@@ -489,7 +489,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Helpers.ContourHelper.html",
-          "hash": "7za22qvb9wg+5mHgQD77iw=="
+          "hash": "otB5wr5F8Jh+AP9cJ+8t8Q=="
         }
       },
       "is_incremental": false,
@@ -501,7 +501,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Helpers.FloatMat.html",
-          "hash": "Du7S7SAmHQXz61pdHYBaRw=="
+          "hash": "GT+wqDT2BNbcS73yJKKS6w=="
         }
       },
       "is_incremental": false,
@@ -513,7 +513,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Helpers.IndexCalculator.html",
-          "hash": "5+ecY/7HcXYneMzZm3et9Q=="
+          "hash": "9ZXvcI/dK87i3tLp+e8s2Q=="
         }
       },
       "is_incremental": false,
@@ -525,7 +525,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Helpers.MatMaker.html",
-          "hash": "WmW7KB7srnQj8/fWQzAhBw=="
+          "hash": "UXLfqp8xabTJ4n65G1Uk0A=="
         }
       },
       "is_incremental": false,
@@ -537,7 +537,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Helpers.MathHelper.html",
-          "hash": "5OTXrydU+OJ9jh9n5slyAA=="
+          "hash": "eZZXsEXZpsy9OlraxWUzag=="
         }
       },
       "is_incremental": false,
@@ -549,7 +549,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Helpers.Plane.html",
-          "hash": "HA1TmmBZRK9EWvN/g9yicw=="
+          "hash": "VtNG1521KBMbMjZc6OT/5w=="
         }
       },
       "is_incremental": false,
@@ -561,7 +561,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Helpers.Transform.html",
-          "hash": "5Rq+GoHW1iWRaZRkOjFgyQ=="
+          "hash": "XckjR3k9lDhKm8wqMHs1Ig=="
         }
       },
       "is_incremental": false,
@@ -573,7 +573,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Helpers.VolumeCalculator.html",
-          "hash": "ko+j4PCzlxPuKNRlKjQGPw=="
+          "hash": "B3YcQDPgeCip8K6EM4ZMSA=="
         }
       },
       "is_incremental": false,
@@ -585,7 +585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Helpers.WindowLevelPreset.html",
-          "hash": "9/2q9nGCVqNWNkp6iRHITA=="
+          "hash": "9nit6sxW/enuiKvPzbbDHA=="
         }
       },
       "is_incremental": false,
@@ -597,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Helpers.WindowLevelPresets.html",
-          "hash": "DPw17Jb6L3rPg+s4+PnFmg=="
+          "hash": "QAWb5osJMEqOkuaMMAM/Wg=="
         }
       },
       "is_incremental": false,
@@ -621,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.IO.DICOM2Beam.html",
-          "hash": "1a2oh22pVZNBffwVg4uurw=="
+          "hash": "k9wn5phsf33nU39Zkh5CKw=="
         }
       },
       "is_incremental": false,
@@ -633,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.IO.DICOM2DRR.html",
-          "hash": "my+61z3x35biJ73VZbxKvA=="
+          "hash": "sXBNNVeV8qOWo16PpHnLug=="
         }
       },
       "is_incremental": false,
@@ -645,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.IO.DICOM2DoseMatrix.html",
-          "hash": "2TlShLCDpTxJhHY0D8aU4w=="
+          "hash": "Q9GGTr8OmstcGvg/JNhSBQ=="
         }
       },
       "is_incremental": false,
@@ -657,7 +657,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.IO.DICOM2ImageMatrix.html",
-          "hash": "hfH2gHpPmSOuovmCswvZqQ=="
+          "hash": "V9rosO9Kplrk24dUOTaIUA=="
         }
       },
       "is_incremental": false,
@@ -669,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.IO.DICOM2Matrix.html",
-          "hash": "dAqxGIdYrHPT3jrRsne7ug=="
+          "hash": "70+Y9tscAKiUpD+X70ZzBg=="
         }
       },
       "is_incremental": false,
@@ -681,7 +681,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.IO.DICOM2Plan.html",
-          "hash": "1ii1cpr/7ELws+vo4ZBg9Q=="
+          "hash": "qHpF3i5a6+vmfH6E5T/U4Q=="
         }
       },
       "is_incremental": false,
@@ -693,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.IO.DICOM2StructureSet.html",
-          "hash": "EdGcQF8ctFQZDWpQMNGKxw=="
+          "hash": "ZvXuetGfLxoIkL0yBieGjg=="
         }
       },
       "is_incremental": false,
@@ -717,7 +717,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Image.Bounds.html",
-          "hash": "Gc7kuCN/AZQRHFTUiSSJpQ=="
+          "hash": "Chfqlv90NqqqNk1vDlDLDA=="
         }
       },
       "is_incremental": false,
@@ -729,7 +729,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Image.ImageContours.html",
-          "hash": "bixkP205EywQSMF0IfFNtA=="
+          "hash": "dWtc1+YJKopnA/l+hZr6Tw=="
         }
       },
       "is_incremental": false,
@@ -741,7 +741,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Image.ImageMatrix.html",
-          "hash": "fazEDQ7TOsYC+tlZJ/Jkbg=="
+          "hash": "TrDzY6l4ogsApR3Zp2Asqg=="
         }
       },
       "is_incremental": false,
@@ -753,7 +753,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Image.Matrix.html",
-          "hash": "u7aAVylTwzXTKQpBDL+XHg=="
+          "hash": "aCZDrv+WTgdpy2gO8uyR6A=="
         }
       },
       "is_incremental": false,
@@ -765,7 +765,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Image.MatrixHistogram.html",
-          "hash": "kljL/a45HirZJHdkFCWzjA=="
+          "hash": "/YNkx/mBpiUzuXAhtSLjiQ=="
         }
       },
       "is_incremental": false,
@@ -777,7 +777,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Image.Ops.Cropper.html",
-          "hash": "c1GaANrp5JAAP/AsEj+QHA=="
+          "hash": "6rXXp/yKB5I8Hv8GJHXBZQ=="
         }
       },
       "is_incremental": false,
@@ -789,7 +789,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Image.Ops.Resampler.html",
-          "hash": "15qToVnOW4eugjhBojaohQ=="
+          "hash": "/3RCjl6RXP8LLW9UluTsHQ=="
         }
       },
       "is_incremental": false,
@@ -813,7 +813,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Image.Slicer3D.html",
-          "hash": "TV+kYZzluoseDvqxfZ6NRQ=="
+          "hash": "UhdGu49IfbPziGCSn4TdBw=="
         }
       },
       "is_incremental": false,
@@ -837,7 +837,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.Interfaces.IMatrix.html",
-          "hash": "yYNNONzN+QKn28FJzMRq8A=="
+          "hash": "1hJRLaSfg+wxX/zboOHoxg=="
         }
       },
       "is_incremental": false,
@@ -861,7 +861,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.DRR.html",
-          "hash": "nQbPADfTSOu9w2cIoyH9MA=="
+          "hash": "d/DT30QwwRnXe6PkYgXGxA=="
         }
       },
       "is_incremental": false,
@@ -873,7 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.DVH.html",
-          "hash": "mXPsM/f4Wb2gCpEh4BHMRQ=="
+          "hash": "NEc926T/z7g137sy07E7aw=="
         }
       },
       "is_incremental": false,
@@ -885,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.DVHCalculator.html",
-          "hash": "lzAf6Aoq6sR9Khay4aeAMQ=="
+          "hash": "j1wReTU3hdKLPcql2VEC/g=="
         }
       },
       "is_incremental": false,
@@ -897,7 +897,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.DoseMatrix.html",
-          "hash": "yJq7m5dc8xZd+XpD7ODPtg=="
+          "hash": "etyJxq7sDZIIjibfWa54jQ=="
         }
       },
       "is_incremental": false,
@@ -909,7 +909,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.IsodoseLevel.html",
-          "hash": "+x+uCWuI1nunHu3jHK5sXg=="
+          "hash": "RSTpbPcceXHQ5UeJX456mQ=="
         }
       },
       "is_incremental": false,
@@ -921,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.Meta.ApprovalMeta.html",
-          "hash": "Vime17utdmtoGvU5TNReRg=="
+          "hash": "fhCsPBem17yc3Q+lOPa8Hw=="
         }
       },
       "is_incremental": false,
@@ -933,7 +933,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.Meta.BeamMeta.html",
-          "hash": "8oC0sQhtEa76dscDp9SH/w=="
+          "hash": "GrXb1PXNbrLCDwPQkawj3g=="
         }
       },
       "is_incremental": false,
@@ -945,7 +945,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.Meta.CalculationOptionMeta.html",
-          "hash": "TeQksiMZw2CcLUW3O1eadg=="
+          "hash": "fVmEYMntd9GmNbudySP31w=="
         }
       },
       "is_incremental": false,
@@ -957,7 +957,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.Meta.PlanMeta.html",
-          "hash": "IONkjMJrjaqe435YrgP5QQ=="
+          "hash": "86SFU3UpG4UyuU/tRhTAxg=="
         }
       },
       "is_incremental": false,
@@ -969,7 +969,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.Meta.ReferencePointMeta.html",
-          "hash": "yY7YnG2uw8j23yq9vhzD0w=="
+          "hash": "n8ffQE4YJcujB1Wiu86oEg=="
         }
       },
       "is_incremental": false,
@@ -981,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.Meta.SliceContourMeta.html",
-          "hash": "PuVkcxw51Kr0ZM9fHYzJHw=="
+          "hash": "p2p4Iylcfd//i/K2TuKTdg=="
         }
       },
       "is_incremental": false,
@@ -993,7 +993,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.Meta.StructureMeta.html",
-          "hash": "WikSRjj9h4B8jY5Q9IRuIg=="
+          "hash": "EjZy3cDvQPgqzg8HhsY15w=="
         }
       },
       "is_incremental": false,
@@ -1005,7 +1005,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.Meta.StructureSetMeta.html",
-          "hash": "zgunr6T5S0DdC6GMruhtrQ=="
+          "hash": "aL1C2dOsinLaaQYDMuFLRA=="
         }
       },
       "is_incremental": false,
@@ -1029,7 +1029,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.CV.RT.TargetIndices.html",
-          "hash": "nEtrsHVBlZP7mflmPajY6Q=="
+          "hash": "X5/fK1iXg1pGWvxYnXfAZA=="
         }
       },
       "is_incremental": false,
@@ -1053,7 +1053,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.DICOMData-1.html",
-          "hash": "XeWK7bVWZisJTXo1fgp6zA=="
+          "hash": "JrUkf7aZPytnWv4CYx2nCw=="
         }
       },
       "is_incremental": false,
@@ -1065,7 +1065,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.DICOMForge.html",
-          "hash": "hqzR+i4Dz/PkiN9RaVENmQ=="
+          "hash": "TrlIHb+z+/qSEGLhl98AAA=="
         }
       },
       "is_incremental": false,
@@ -1077,7 +1077,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.DICOMObject.html",
-          "hash": "RZHNSiU2XCYqGtjaD7aPOA=="
+          "hash": "GZKHwP66TgGtQkJSRkGYog=="
         }
       },
       "is_incremental": false,
@@ -1089,7 +1089,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Dictionaries.EncodingDictionary.html",
-          "hash": "mzaiuh47WXmwBbF/yDzoTw=="
+          "hash": "sp9iE6VsAxYf8pn3uNlNMA=="
         }
       },
       "is_incremental": false,
@@ -1101,7 +1101,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Dictionaries.TagDictionary.TagInfo.html",
-          "hash": "+uwMFF1WyhgfzNRIReAiqg=="
+          "hash": "wXi9QlMaIOi4iaaup5aD8Q=="
         }
       },
       "is_incremental": false,
@@ -1113,7 +1113,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Dictionaries.TagDictionary.html",
-          "hash": "5P6UDsCp07aJdF0HnZPBog=="
+          "hash": "ghXLqgVOKSoO31D0eHW0fw=="
         }
       },
       "is_incremental": false,
@@ -1125,7 +1125,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Dictionaries.VRDictionary.html",
-          "hash": "Na4D6TbyrZJ5kwfHHNvO1w=="
+          "hash": "WadcstmSjpxXLnQ1Jfsgfg=="
         }
       },
       "is_incremental": false,
@@ -1149,7 +1149,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.AbstractElement-1.html",
-          "hash": "Trl83+lJm5eEV+c0Dsl3SQ=="
+          "hash": "SMXIOt2TWzaxun3ESOO3aA=="
         }
       },
       "is_incremental": false,
@@ -1161,7 +1161,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.Age.Unit.html",
-          "hash": "srCO40C7h8/OrtNJ0upcxQ=="
+          "hash": "2dsJW7i/GVa+tce32tzF9Q=="
         }
       },
       "is_incremental": false,
@@ -1173,7 +1173,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.Age.html",
-          "hash": "GUHo/q1xIlNmrBK5CvEVSg=="
+          "hash": "FKc6ybjuzhUa0gIfJkBllQ=="
         }
       },
       "is_incremental": false,
@@ -1185,7 +1185,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.AgeString.html",
-          "hash": "RxzTx3UgT/SAywtRdJOoug=="
+          "hash": "thLs+jyYXLQR5CVIMppIgw=="
         }
       },
       "is_incremental": false,
@@ -1197,7 +1197,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.ApplicationEntity.html",
-          "hash": "V8OGmX2FohN4z3NxGISQBA=="
+          "hash": "6v3bBgPpwMvnRx/qhEyqIg=="
         }
       },
       "is_incremental": false,
@@ -1209,7 +1209,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.AttributeTag.html",
-          "hash": "FgOjQOzRaHiuzT04m8CFvA=="
+          "hash": "ZG/l70q19wWRyJvDVVrqSQ=="
         }
       },
       "is_incremental": false,
@@ -1221,7 +1221,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.CodeString.html",
-          "hash": "DAd4xSdzgr0zcNCUpjL4Lw=="
+          "hash": "oGujzalrhNlm1Uiv4vlVxA=="
         }
       },
       "is_incremental": false,
@@ -1233,7 +1233,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.Date.html",
-          "hash": "1xLThmawVXpmtodH8z4E7g=="
+          "hash": "WRF/W5xKnR03YNMM1n+6MQ=="
         }
       },
       "is_incremental": false,
@@ -1245,7 +1245,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.DateTime.html",
-          "hash": "1DMUB4Sby3VW1hUjzPTN4g=="
+          "hash": "b9c+qDYAe8qp/F85+jtZbQ=="
         }
       },
       "is_incremental": false,
@@ -1257,7 +1257,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.DecimalString.html",
-          "hash": "27nIMK3gxiQPu3HEV89+/g=="
+          "hash": "ec1aar8qQEQLa1JqWZZ+Lw=="
         }
       },
       "is_incremental": false,
@@ -1269,7 +1269,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.ElementFactory.html",
-          "hash": "RPFbUyyz2v7yn43epu2nLQ=="
+          "hash": "1H2buKwBhKAcVKu1oh4IZQ=="
         }
       },
       "is_incremental": false,
@@ -1281,7 +1281,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.FloatingPointDouble.html",
-          "hash": "WBTJyi5aM26z2Xz0Z1/kyA=="
+          "hash": "cnyKpR72oCeFXyTCKZp1zg=="
         }
       },
       "is_incremental": false,
@@ -1293,7 +1293,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.FloatingPointSingle.html",
-          "hash": "xbEKYui2C6iX/+MLkhTyyg=="
+          "hash": "3TKmYczWPgJPIdue/4WFjQ=="
         }
       },
       "is_incremental": false,
@@ -1305,7 +1305,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.IntegerString.html",
-          "hash": "3+K4BMc6cWOZQD/+NQRjLA=="
+          "hash": "XyRMm604uW/BKcR79dlK3A=="
         }
       },
       "is_incremental": false,
@@ -1317,7 +1317,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.LongString.html",
-          "hash": "xPmkdHi3TB/trlYRRE4zhA=="
+          "hash": "GgDbUfN/XPj1N9A7EGOH2g=="
         }
       },
       "is_incremental": false,
@@ -1329,7 +1329,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.LongText.html",
-          "hash": "QjRE40gI2LiwXfCg6uYbPw=="
+          "hash": "+nJvWPGA0QOvT0d8ppn42Q=="
         }
       },
       "is_incremental": false,
@@ -1341,7 +1341,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.Other64BitVeryLong.html",
-          "hash": "+JO1FzC9BX2MaA4x5crb0w=="
+          "hash": "i8nB+Bi7k/L8ARM9MhATjg=="
         }
       },
       "is_incremental": false,
@@ -1353,7 +1353,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.OtherByteString.html",
-          "hash": "LL6DAXjNsZjPlUqdfexnBA=="
+          "hash": "PmHwxiHkcMXAuSMAyID7cw=="
         }
       },
       "is_incremental": false,
@@ -1365,7 +1365,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.OtherDoubleString.html",
-          "hash": "t6o5oY1EIoZVJmn7GDxgZg=="
+          "hash": "zUHV/hayjcT6DEatNd3/0A=="
         }
       },
       "is_incremental": false,
@@ -1377,7 +1377,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.OtherFloatString.html",
-          "hash": "r9R/Fau8KSCCcL/ejOGQ7g=="
+          "hash": "y5gF8w7lvl3rxWrYBeErmQ=="
         }
       },
       "is_incremental": false,
@@ -1389,7 +1389,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.OtherLongString.html",
-          "hash": "Mzgyz6yM5RPGiMaLirWhOg=="
+          "hash": "LEvRP/N1x9q23wthrTvMmQ=="
         }
       },
       "is_incremental": false,
@@ -1401,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.OtherWordString.html",
-          "hash": "VwC+gHqW1G/hUnOda7+/zQ=="
+          "hash": "TiJwJMg6c3zPxowOE1pD6A=="
         }
       },
       "is_incremental": false,
@@ -1413,7 +1413,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.PersonName.html",
-          "hash": "dqZqip1JgOsEPL+n53UWxw=="
+          "hash": "T3HwbnD+PaWC9NvaGbpMTw=="
         }
       },
       "is_incremental": false,
@@ -1428,7 +1428,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.RangeableDateTime.html",
-          "hash": "H2bv/xk5pN7ykoJ5B0y3JA=="
+          "hash": "SiB06oQlHFjFKgvA4P+sEw=="
         }
       },
       "is_incremental": false,
@@ -1440,7 +1440,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.Sequence.html",
-          "hash": "48GKd9OBQoXNoEoYbwveaw=="
+          "hash": "Uy91jP+MgFNjU6PTwyWH4A=="
         }
       },
       "is_incremental": false,
@@ -1452,7 +1452,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.ShortString.html",
-          "hash": "SRIM0wQ7yNwZHxW1yCBoDg=="
+          "hash": "8xsPEXPFpvLHrr+01B/OZQ=="
         }
       },
       "is_incremental": false,
@@ -1464,7 +1464,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.ShortText.html",
-          "hash": "30yo2c26ckOR2oxk5EquFQ=="
+          "hash": "etQdgKmC0GV9UtwU6zrsHg=="
         }
       },
       "is_incremental": false,
@@ -1476,7 +1476,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.Signed64bitVeryLong.html",
-          "hash": "2lMl8nmg4UdqwEbrBx6W/g=="
+          "hash": "LGTo38qYpM7oyvjJJHlshA=="
         }
       },
       "is_incremental": false,
@@ -1488,7 +1488,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.SignedLong.html",
-          "hash": "kgVzEUh3iW26j+z/G0+l1g=="
+          "hash": "Ic2iB2OHCQ4Nauoa4jJqeQ=="
         }
       },
       "is_incremental": false,
@@ -1500,7 +1500,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.SignedShort.html",
-          "hash": "lknTC9nbX+gUiDfe0ky0Pw=="
+          "hash": "SqDTgwrUQS/SYLHZJu2jqg=="
         }
       },
       "is_incremental": false,
@@ -1512,7 +1512,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.Tag.html",
-          "hash": "dTPJQHqiDE+/d3V7JMi9sw=="
+          "hash": "SxVZ66XCOZ0XTNaBaZqdFQ=="
         }
       },
       "is_incremental": false,
@@ -1524,7 +1524,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.Time.html",
-          "hash": "5v6d+uw1mS3CEvnzNssebQ=="
+          "hash": "jHw3M5yDnrb8g+zR/nD/Aw=="
         }
       },
       "is_incremental": false,
@@ -1536,7 +1536,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.UniqueIdentifier.html",
-          "hash": "iUC3+mR2LgKRuatrxVGX7A=="
+          "hash": "nprBaQrVHjbMKduEvjVc6A=="
         }
       },
       "is_incremental": false,
@@ -1548,7 +1548,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.UniversalResourceId.html",
-          "hash": "TE1T8KwxpN/zP9SUjMoKcg=="
+          "hash": "6enuhhWsdGfqzvzh+glkaQ=="
         }
       },
       "is_incremental": false,
@@ -1560,7 +1560,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.Unknown.html",
-          "hash": "aF8r0jcCm869qvJ5h3PBhw=="
+          "hash": "Zf3UGKfWanEoQA8rTghGIA=="
         }
       },
       "is_incremental": false,
@@ -1572,7 +1572,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.UnlimitedCharacter.html",
-          "hash": "VZN/WjeBn4FTEXTROq/k0Q=="
+          "hash": "52xhTfcyXIeTz99UiZ9PLw=="
         }
       },
       "is_incremental": false,
@@ -1584,7 +1584,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.UnlimitedText.html",
-          "hash": "ijF2b63DDGwOvdaQw0u6SA=="
+          "hash": "f3MtW7qjPLu7FYjRC6jfQw=="
         }
       },
       "is_incremental": false,
@@ -1596,7 +1596,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.Unsigned64bitVeryLong.html",
-          "hash": "GaM8jMHDitvUIRP0sWv6+Q=="
+          "hash": "f7Ogv43MDEWk6LZhkd7EqQ=="
         }
       },
       "is_incremental": false,
@@ -1608,7 +1608,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.UnsignedLong.html",
-          "hash": "REbFhEKiEHm2H+h8KDiEUg=="
+          "hash": "NEAEzZTSapQR9tZKRGasiw=="
         }
       },
       "is_incremental": false,
@@ -1620,7 +1620,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Element.UnsignedShort.html",
-          "hash": "6D1nOBZqQueseltQY45fBA=="
+          "hash": "zoRSowFNgVO2ytfEZL2Kpw=="
         }
       },
       "is_incremental": false,
@@ -1647,7 +1647,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Enums.LogPriority.html",
-          "hash": "GrYcm8W/S9ET4sgoWyddsw=="
+          "hash": "+lf2JTVtHrQPlu2XzovLIg=="
         }
       },
       "is_incremental": false,
@@ -1659,7 +1659,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Enums.Orientation.html",
-          "hash": "VEPcaTaEYT7LuHN5i5llkg=="
+          "hash": "OTwPsGMmrRwgcEZh2RYBKA=="
         }
       },
       "is_incremental": false,
@@ -1671,7 +1671,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Enums.Priority.html",
-          "hash": "JFVOtKFKKVTwKaCo+xcQ3g=="
+          "hash": "pMevIzRHcxJ5r6m1pKSvEw=="
         }
       },
       "is_incremental": false,
@@ -1683,7 +1683,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Enums.SOPClass.html",
-          "hash": "xI0gUBAv9+iUasxWeuQtkA=="
+          "hash": "D30YHyJ62c/jM3O2cZYC9A=="
         }
       },
       "is_incremental": false,
@@ -1695,7 +1695,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Enums.StringEncoding.html",
-          "hash": "qX0FXwjxpOVplTjtx5/08A=="
+          "hash": "Xx+7mVBHKMDzlOLunOKnoQ=="
         }
       },
       "is_incremental": false,
@@ -1707,7 +1707,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Enums.TransferSyntax.html",
-          "hash": "HRiSxo5kEiG4iEBRK8vO4g=="
+          "hash": "WxHWDocaYmfL7KQAY89Luw=="
         }
       },
       "is_incremental": false,
@@ -1719,7 +1719,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Enums.VR.html",
-          "hash": "LMy9HHuVK+8uD0N4qBcC/A=="
+          "hash": "CEZUpXeoVtCG3tGvL+5u9A=="
         }
       },
       "is_incremental": false,
@@ -1731,7 +1731,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Enums.VREncoding.html",
-          "hash": "oswf7TmL4cMewdw2b6uJkg=="
+          "hash": "ErMbWCkOV9gYIZiRx9nseQ=="
         }
       },
       "is_incremental": false,
@@ -1755,7 +1755,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Extensions.ByteExtensions.html",
-          "hash": "46YBtL7xaiDcSKswPaUT3w=="
+          "hash": "fJA/Z8hOUIM+i1n6CbtrBg=="
         }
       },
       "is_incremental": false,
@@ -1767,7 +1767,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Extensions.DICOMObjectExtensions.html",
-          "hash": "s7O7iKaQ/em41ERRRQhSQA=="
+          "hash": "uM4TAx8Uw+s6M+NMPPL4Lw=="
         }
       },
       "is_incremental": false,
@@ -1779,7 +1779,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Extensions.IDICOMElementExtensions.html",
-          "hash": "Q48xf923oF92p7id5IqoEg=="
+          "hash": "F+Yl/HPozuGqyDqrypI8WA=="
         }
       },
       "is_incremental": false,
@@ -1791,7 +1791,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Extensions.IDICOMElementListExtensions.html",
-          "hash": "aq+Y1V/gzwCbu5RYle2Xag=="
+          "hash": "YhpSOfCy6TWIQr2B1Tlomg=="
         }
       },
       "is_incremental": false,
@@ -1803,7 +1803,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Extensions.PixelExtensions.html",
-          "hash": "StTJ8igklD/7DxI6W/VOcg=="
+          "hash": "+EAmW6Bdkr6lgd64K0yqzw=="
         }
       },
       "is_incremental": false,
@@ -1815,7 +1815,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Extensions.StringExtensions.html",
-          "hash": "kg9UGllA9JQd4oq+RT/MHw=="
+          "hash": "RlE2jDuI+S9aT2mYVaN3Lg=="
         }
       },
       "is_incremental": false,
@@ -1839,7 +1839,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.AbstractSyntax.html",
-          "hash": "Od89jJeojd2q425nlyeqKw=="
+          "hash": "8iPm3CrThuCCBm/we7eS0A=="
         }
       },
       "is_incremental": false,
@@ -1851,7 +1851,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.ArrayHelper.html",
-          "hash": "S+9gr4KXU5mi55mGtFn5dw=="
+          "hash": "1EiMFF8iWd66X4+ns6Jztw=="
         }
       },
       "is_incremental": false,
@@ -1863,7 +1863,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.ByteHelper.html",
-          "hash": "aCUbduhBtGe154FdzqSzHQ=="
+          "hash": "gdsX9E+J+g+t0SMRk0GscQ=="
         }
       },
       "is_incremental": false,
@@ -1875,7 +1875,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.Constants.html",
-          "hash": "yGsB07ikz2k+d7Xiy+z7/Q=="
+          "hash": "p6Hh8MH/hiurG5lJhiHuQg=="
         }
       },
       "is_incremental": false,
@@ -1887,7 +1887,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.DICOMComparer.html",
-          "hash": "63NT/Dh24L1h/lLdAn0n1Q=="
+          "hash": "Tqk/mqY0SSWmsZHvt+RWqg=="
         }
       },
       "is_incremental": false,
@@ -1899,7 +1899,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.DoubleHelper.html",
-          "hash": "kHu4DSpsV8aN/U9o/7zYvw=="
+          "hash": "ZPrK0Z9RfuXiWjr8d66z/g=="
         }
       },
       "is_incremental": false,
@@ -1911,7 +1911,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.EnumHelper.html",
-          "hash": "lMGeJrr7Tx8HCKCekDb2VQ=="
+          "hash": "/rS6VuW9ds0I60ggIcuFUA=="
         }
       },
       "is_incremental": false,
@@ -1923,7 +1923,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.ExceptionHelper.html",
-          "hash": "VOsbwRbf7rUf8yyx7v/+Cw=="
+          "hash": "8+YzafzOT7HQ69tjurn/LA=="
         }
       },
       "is_incremental": false,
@@ -1935,7 +1935,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.ISO3166Helper.html",
-          "hash": "Nedeqcz8zJxkev4dnlpxhw=="
+          "hash": "JAOuawnM+1663sSz4JrDDg=="
         }
       },
       "is_incremental": false,
@@ -1947,7 +1947,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.IndexHelper.html",
-          "hash": "e/kn6Hi1YAusdY2w2a0L9A=="
+          "hash": "eYjNB4fQ261P8yJxzKt5kg=="
         }
       },
       "is_incremental": false,
@@ -1959,7 +1959,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.PatientPosition.html",
-          "hash": "8AgVPXzlGQraXZy/hqJnbQ=="
+          "hash": "u7eWT1BeyOKAz3BmdnQOHQ=="
         }
       },
       "is_incremental": false,
@@ -1971,7 +1971,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.PersonNameHelper.html",
-          "hash": "SXv68NXO8cew5n/Wdv0ZbQ=="
+          "hash": "h1jv8hkC/kpI0/kyzK+b2Q=="
         }
       },
       "is_incremental": false,
@@ -1983,7 +1983,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.SOPClassDictionary.html",
-          "hash": "T+kecl22i5oEv9y/dU+PjQ=="
+          "hash": "QHK8lDBXpB/AHCIL/rczZQ=="
         }
       },
       "is_incremental": false,
@@ -1995,7 +1995,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.SOPClassHelper.html",
-          "hash": "ghSm2Uab3GrY9Z7+eRCEFA=="
+          "hash": "YWU2GBpD4G+qtqaXFcxHZg=="
         }
       },
       "is_incremental": false,
@@ -2007,7 +2007,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.SOPClassUID.html",
-          "hash": "uo+7EnVMwQzuzY1shcH4JQ=="
+          "hash": "OlEfCs515IPKOpCKhbaCTQ=="
         }
       },
       "is_incremental": false,
@@ -2019,7 +2019,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.TagHelper.html",
-          "hash": "WOtqNaZnmJ6MD7t7ns+PDA=="
+          "hash": "Qu5yGFCgCsDvHTOuLO45hA=="
         }
       },
       "is_incremental": false,
@@ -2031,7 +2031,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.TagSorter.html",
-          "hash": "cwNwb7G8VrQGyJ0MHVfQZA=="
+          "hash": "e+X47B+XFw0zxE6gJ5BFYA=="
         }
       },
       "is_incremental": false,
@@ -2043,22 +2043,19 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.TransferSyntaxHelper.html",
-          "hash": "P0+XBUpq14zRmLHDwXs0Ow=="
+          "hash": "jww9A8FOMRjerkbI2x718Q=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/EvilDICOM.Core.Helpers.Tryer.yml",
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.Tryer.html",
-          "hash": "Rzzl8IFSKHi/tO/5IyKG/g=="
+          "hash": "0tjIMaOAuE6/PFqE9zL8eQ=="
         }
       },
       "is_incremental": false,
@@ -2070,7 +2067,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.UIDHelper.html",
-          "hash": "oSqDM8Dkj+tht3gIb+W+Ig=="
+          "hash": "qxCGtp0wiWk0sdRgBVs11A=="
         }
       },
       "is_incremental": false,
@@ -2082,16 +2079,13 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Helpers.Vector3.html",
-          "hash": "QDmubIpSm81mnrQy+DbQEA=="
+          "hash": "HG8iOSQPg+zptdu8z3saXg=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/EvilDICOM.Core.Helpers.yml",
       "output": {
@@ -2109,7 +2103,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.AbstractBinaryDataReader.html",
-          "hash": "wc6sCyb9sFhbHYHub/beRg=="
+          "hash": "G7j1kDQDf/4gO87Nhsj3SA=="
         }
       },
       "is_incremental": false,
@@ -2121,7 +2115,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.BigEndianReader.html",
-          "hash": "0VcCs6Bm1iqutKZta8G9dA=="
+          "hash": "QVWEemaEsGiTQsRY90HJYA=="
         }
       },
       "is_incremental": false,
@@ -2133,7 +2127,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.BigEndianWriter.html",
-          "hash": "DbefyYYL0uDRn9xJlcp/Yw=="
+          "hash": "X9Cft3JMljiA3i9lS6mCYw=="
         }
       },
       "is_incremental": false,
@@ -2145,7 +2139,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.DICOMString.html",
-          "hash": "et3o+5Fgv1qgg6qFmGUx8Q=="
+          "hash": "eapUxEBuZe6KzwjfA3lafg=="
         }
       },
       "is_incremental": false,
@@ -2157,7 +2151,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.DataComposer.html",
-          "hash": "iGn9uXHDQ4kZxJLhC8uryw=="
+          "hash": "gLdJS2uBP8Oz0Iu8Wueu5A=="
         }
       },
       "is_incremental": false,
@@ -2169,7 +2163,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.DataPadder.html",
-          "hash": "XUiH1DDPd57xaRzYOVE71Q=="
+          "hash": "xP1KZpa90A0eKG5qjIlo2g=="
         }
       },
       "is_incremental": false,
@@ -2181,7 +2175,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.DataRestriction.html",
-          "hash": "FZOMhVk/WykR5SeEPKRjmw=="
+          "hash": "bD3cRAG+eYMUShSr1ksTuw=="
         }
       },
       "is_incremental": false,
@@ -2193,7 +2187,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.LittleEndianReader.html",
-          "hash": "K2cKsFuQMfxtd+ovj4B5VQ=="
+          "hash": "BMJZcxfNmhq2u3fLuZhC4A=="
         }
       },
       "is_incremental": false,
@@ -2205,7 +2199,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.LittleEndianWriter.html",
-          "hash": "0xn29ozVWS5HGh1wdc4bIg=="
+          "hash": "dtvTE6GYiZL1RP74vraYKA=="
         }
       },
       "is_incremental": false,
@@ -2217,7 +2211,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.MultiplicityComposer.html",
-          "hash": "fOKRCRZf+coULuU0cipGEg=="
+          "hash": "CufkMtP0W8MhGvrGxd1j9w=="
         }
       },
       "is_incremental": false,
@@ -2229,7 +2223,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.MultiplicityReader.html",
-          "hash": "54TA2bsLIwd1xgo2rYsMGg=="
+          "hash": "6j4ilRXpVl17E9lSQBJGHA=="
         }
       },
       "is_incremental": false,
@@ -2241,7 +2235,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.StringDataComposer.html",
-          "hash": "nJuZWNZA7XTuXOPkvSc2mQ=="
+          "hash": "yAaWyFo+YvuI9Fooprpk8w=="
         }
       },
       "is_incremental": false,
@@ -2253,7 +2247,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Data.StringDataParser.html",
-          "hash": "Sij3wV4wLErRw2+Kd+7Jcg=="
+          "hash": "4V76nEaNaoVkfSP4kRdKVw=="
         }
       },
       "is_incremental": false,
@@ -2277,7 +2271,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.DICOMBinaryReader.html",
-          "hash": "S2aO1BURQdtslEckIol9qQ=="
+          "hash": "sxqL6zAaQx+Rp+k/FafwEw=="
         }
       },
       "is_incremental": false,
@@ -2289,7 +2283,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.DICOMElementReader.html",
-          "hash": "nomyAbQ2nqIPtT+8/u+E2A=="
+          "hash": "PbXiFvyCjZi6SivuTk6okQ=="
         }
       },
       "is_incremental": false,
@@ -2301,7 +2295,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.DICOMFileReader.html",
-          "hash": "MuOox11jaY/Wk1rT3I13hw=="
+          "hash": "xko66oT/ehatAliJknS4Vw=="
         }
       },
       "is_incremental": false,
@@ -2313,7 +2307,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.DICOMObjectReader.html",
-          "hash": "HYisg7mxSko1qix3UsU3tg=="
+          "hash": "2GMwsmaq7ksATks3eNPefA=="
         }
       },
       "is_incremental": false,
@@ -2325,7 +2319,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.DICOMPreambleReader.html",
-          "hash": "EMZScLjSKVle2hA2TLQD/Q=="
+          "hash": "8ADmaBrbH1qZRmRU5NDPhA=="
         }
       },
       "is_incremental": false,
@@ -2337,7 +2331,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.DataReader.html",
-          "hash": "MWBCDZish8sCjoALvzT3Xg=="
+          "hash": "+jpzMnPhl/wurhDHb6yuvQ=="
         }
       },
       "is_incremental": false,
@@ -2349,7 +2343,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.LengthReader.html",
-          "hash": "vMhG+T3eOPPdFvB9Av3CCg=="
+          "hash": "pJTKnDB+2SKdX6hThd0Hnw=="
         }
       },
       "is_incremental": false,
@@ -2361,7 +2355,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.SequenceItemReader.html",
-          "hash": "X2ADfhWsusdTC/ETHc4x/g=="
+          "hash": "UPHeXnb0xAZRMdpAZlI0FQ=="
         }
       },
       "is_incremental": false,
@@ -2373,7 +2367,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.SequenceReader.html",
-          "hash": "XzA2cag8BcfFmQ2Tn167IA=="
+          "hash": "R3+UGQF+M0zL1llDLUe6Vw=="
         }
       },
       "is_incremental": false,
@@ -2385,7 +2379,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.SliceReader.html",
-          "hash": "JKFUBN2+UwWca8/EdO/hDQ=="
+          "hash": "w/vR1VmirutskQkNty9m7A=="
         }
       },
       "is_incremental": false,
@@ -2397,7 +2391,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.TagReader.html",
-          "hash": "cbib7XBNWvpXo/55t3oLBg=="
+          "hash": "tFVBDMqp9lAnY24Epb0fKQ=="
         }
       },
       "is_incremental": false,
@@ -2409,7 +2403,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Reading.VRReader.html",
-          "hash": "ZOSd0SW8N5sZifBk5u8kww=="
+          "hash": "mAmKQGvZmibsbHuxjBxMtg=="
         }
       },
       "is_incremental": false,
@@ -2433,7 +2427,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.DICOMBinaryWriter.html",
-          "hash": "r8Z3I4pCwDXH3yeOlxlrPA=="
+          "hash": "97cPesjNbHtKj18mqEsMwA=="
         }
       },
       "is_incremental": false,
@@ -2445,7 +2439,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.DICOMElementWriter.html",
-          "hash": "BRUzAzIVAA9uApfS/yFP9Q=="
+          "hash": "09u4Y2Zbhvd1cv012jaZ3Q=="
         }
       },
       "is_incremental": false,
@@ -2457,7 +2451,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.DICOMFileWriter.html",
-          "hash": "g8IJxD5dwv69IpTu3J+m8A=="
+          "hash": "gw11z6YTmIjvCygM407joQ=="
         }
       },
       "is_incremental": false,
@@ -2469,7 +2463,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.DICOMIOSettings.html",
-          "hash": "FzdwHxWdtD01xQZwpRgJQg=="
+          "hash": "ucJuOyAHRleB7Ypn060Wrw=="
         }
       },
       "is_incremental": false,
@@ -2481,7 +2475,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.DICOMObjectWriter.html",
-          "hash": "tFfcaZMuxNI3K6+i7WtrUA=="
+          "hash": "poXaTp6gxlB/QMPsryAv/g=="
         }
       },
       "is_incremental": false,
@@ -2493,7 +2487,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.DICOMPreambleWriter.html",
-          "hash": "5nab6Lw6CMyKOJFvjaBC0w=="
+          "hash": "atNUNF4uqrv3TTL9M/EeJg=="
         }
       },
       "is_incremental": false,
@@ -2505,7 +2499,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.DICOMTagWriter.html",
-          "hash": "+NSefUgglOIlHo7xvlh1vQ=="
+          "hash": "AsrkAWjhsN9HmSPR8D9G2Q=="
         }
       },
       "is_incremental": false,
@@ -2517,7 +2511,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.DataWriter.html",
-          "hash": "ZTcP24ZoqA4cq8PIs4x1aQ=="
+          "hash": "nTdZLs2u6FeC9PcGMmVqJA=="
         }
       },
       "is_incremental": false,
@@ -2529,7 +2523,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.GroupWriter.html",
-          "hash": "YlDK/gVXI07t4F8PGHdm6g=="
+          "hash": "eimQA08QK83tLmEpbK4grQ=="
         }
       },
       "is_incremental": false,
@@ -2541,7 +2535,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.LengthWriter.html",
-          "hash": "MWjLvoPnBy50ziGPm/AlKw=="
+          "hash": "15SKW5vkP8b9220cbnNRMg=="
         }
       },
       "is_incremental": false,
@@ -2553,7 +2547,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.SequenceItemWriter.html",
-          "hash": "iBqu9VNru871Cf2It3oJIg=="
+          "hash": "NUdacQ8dXzAb4ZQ5uUoKng=="
         }
       },
       "is_incremental": false,
@@ -2565,7 +2559,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.SequenceWriter.html",
-          "hash": "s+Yr9hmi0UP1QTItkPIg1w=="
+          "hash": "wotMMGUTgpLczTFXHIIESA=="
         }
       },
       "is_incremental": false,
@@ -2577,7 +2571,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.IO.Writing.VRWriter.html",
-          "hash": "2K1WVHEcRPplD3P13y4RFg=="
+          "hash": "nYY8ZaqwGWIuBsRsbuBN9g=="
         }
       },
       "is_incremental": false,
@@ -2601,7 +2595,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Image.PixelSlicer.html",
-          "hash": "/9+MWJvHvp0CxvACfrY5iw=="
+          "hash": "k38eMdR2Fw/TbIJY4c6YvA=="
         }
       },
       "is_incremental": false,
@@ -2613,7 +2607,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Image.PixelStream.html",
-          "hash": "EreIjCqtNpYE3+YR9cfc3g=="
+          "hash": "PH1oe2O7PVN9FME/W3zjiQ=="
         }
       },
       "is_incremental": false,
@@ -2649,7 +2643,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Interfaces.IDICOMElement.html",
-          "hash": "B+b+u5lstO/8jX6Ywln8Dg=="
+          "hash": "rpMJVzzSGDqElKF3Q9/3wA=="
         }
       },
       "is_incremental": false,
@@ -2673,7 +2667,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Interfaces.IIOD.html",
-          "hash": "kLWns+siRyIlArTd0jp9ig=="
+          "hash": "64vA91jn7gW954nsZKejzg=="
         }
       },
       "is_incremental": false,
@@ -2697,7 +2691,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Logging.EvilLogger.html",
-          "hash": "UCWruDSwMYPNd+S6IF6epw=="
+          "hash": "AAzoP9f4B2gC18rrGEQl6Q=="
         }
       },
       "is_incremental": false,
@@ -2721,7 +2715,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Modules.FileMetadata.html",
-          "hash": "xdNmyYHbM3MF7NOVZL1jsg=="
+          "hash": "9YrpjAHxCCx7U5Sg60E5hw=="
         }
       },
       "is_incremental": false,
@@ -2733,7 +2727,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Modules.Patient.html",
-          "hash": "XnA0tiQE6CeHgnP7pdVrwQ=="
+          "hash": "E1aMyXTEmaeleSKFY7qeAw=="
         }
       },
       "is_incremental": false,
@@ -2757,7 +2751,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Selection.DICOMSelector.html",
-          "hash": "O9QvAgVARTH03uSLdfMFAA=="
+          "hash": "xLApB+dgF2VwS5sKbqiH9w=="
         }
       },
       "is_incremental": false,
@@ -2769,7 +2763,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Selection.ListExtensions.html",
-          "hash": "QaPlKfWC4tdCTFebVV1NmQ=="
+          "hash": "/vPqpTktpE66+DK1ri+7+w=="
         }
       },
       "is_incremental": false,
@@ -2781,7 +2775,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Selection.SequenceSelector.html",
-          "hash": "29BHYbuNXw/7ipSBNrTjow=="
+          "hash": "WZLwRID4IJB8n+oWYI9qDw=="
         }
       },
       "is_incremental": false,
@@ -2805,7 +2799,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Wrapping.DICOMObjectWrapper.html",
-          "hash": "TNJ2v7adSRz5lwXv5PM9Ew=="
+          "hash": "rLWYZRM87Ho7FayWU0EqAg=="
         }
       },
       "is_incremental": false,
@@ -2817,7 +2811,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Core.Wrapping.SequenceItemWrapper-1.html",
-          "hash": "jdSf4KhgEzxilnhHos+Nug=="
+          "hash": "u4dtrIU7UoGeKjTh+O0sTw=="
         }
       },
       "is_incremental": false,
@@ -2853,7 +2847,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Association.html",
-          "hash": "5maaQWCTQRaNZcLUajYCWQ=="
+          "hash": "5u4ZroqIOXPLGWGKBfKVpg=="
         }
       },
       "is_incremental": false,
@@ -2865,7 +2859,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Associations.PDUs.Abort.html",
-          "hash": "FWX0ycrmOOlqaVc6PuCW7w=="
+          "hash": "YYEmFIdARhtnwGHbu6h1Tw=="
         }
       },
       "is_incremental": false,
@@ -2901,7 +2895,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DICOMSCP.html",
-          "hash": "z04DwhiTRB34T9EwQEBZww=="
+          "hash": "cR3Wl60hueczcZ2gT/LL8g=="
         }
       },
       "is_incremental": false,
@@ -2913,7 +2907,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DICOMSCU.html",
-          "hash": "lDL6Vf1FiX4tgzQzVEkB0A=="
+          "hash": "QvIW3AJuEf8/GCUudD6ovQ=="
         }
       },
       "is_incremental": false,
@@ -2925,7 +2919,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DICOMServiceClass.html",
-          "hash": "LjUG6gtWFguP4Vkv6DTlPQ=="
+          "hash": "4XduHyENsUZjvZT7T7lClQ=="
         }
       },
       "is_incremental": false,
@@ -2937,7 +2931,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.AbstractDIMSE.html",
-          "hash": "YC/fYKVLeT4tqXRt4KtQKA=="
+          "hash": "aXfcYBCsy4PJzjHkvLepqQ=="
         }
       },
       "is_incremental": false,
@@ -2949,7 +2943,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.AbstractDIMSEBase.html",
-          "hash": "I3cuJHEzOB4cCzfEpGAB+Q=="
+          "hash": "vAMSGbjLLtpTQ8wXmoDOuA=="
         }
       },
       "is_incremental": false,
@@ -2961,7 +2955,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.AbstractDIMSERequest.html",
-          "hash": "wzQxzUrQtGRR22aaMLJu5g=="
+          "hash": "APoQ1dWBUNNn0IxDF9MWmQ=="
         }
       },
       "is_incremental": false,
@@ -2973,7 +2967,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.AbstractDIMSEResponse.html",
-          "hash": "FbbNwmXqb43CqLAn6FWBfg=="
+          "hash": "xeoHYmTaicHUaN08W65/Jg=="
         }
       },
       "is_incremental": false,
@@ -2985,7 +2979,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.Actions.StorageCommitmentRequest.html",
-          "hash": "YNPsJD8TgXu16YK4ry10iQ=="
+          "hash": "jJhBpk2d4AHKD4sEz5XDEA=="
         }
       },
       "is_incremental": false,
@@ -3009,7 +3003,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.CCancel.html",
-          "hash": "vDkvikuXhSwNVhz5hsJIQQ=="
+          "hash": "QDh/k+LnfoowvM4kxc20UQ=="
         }
       },
       "is_incremental": false,
@@ -3021,7 +3015,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.CEchoRequest.html",
-          "hash": "M+OTo5GKH+4m02U5fynDUw=="
+          "hash": "KLMrgqSPExq3tpAWreARBw=="
         }
       },
       "is_incremental": false,
@@ -3033,7 +3027,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.CEchoResponse.html",
-          "hash": "fxPxIUWzpxaBT8SD+ErX7w=="
+          "hash": "PyohMIZ0HkG0wVmg/mpIZw=="
         }
       },
       "is_incremental": false,
@@ -3045,7 +3039,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.CFindRequest.html",
-          "hash": "/QXgngOE89c1CNJ0rqYmvw=="
+          "hash": "TYCQ8do7VAM3X1CwOra2fw=="
         }
       },
       "is_incremental": false,
@@ -3057,7 +3051,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.CFindResponse.html",
-          "hash": "UzsSVJW1ItvRDrmCtpTQNA=="
+          "hash": "fDOLGu/iR61FCE9s7VcpUQ=="
         }
       },
       "is_incremental": false,
@@ -3069,7 +3063,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.CGetRequest.html",
-          "hash": "Vrv93UYYwd+Fa6lLCxAQpA=="
+          "hash": "tz2kfX3WuzsE+zhYP/3wpA=="
         }
       },
       "is_incremental": false,
@@ -3081,7 +3075,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.CGetResponse.html",
-          "hash": "i+0xvKxP2r+Nvkaub+R4Yg=="
+          "hash": "XpE+P1amCnhz/cNuPvZ9vg=="
         }
       },
       "is_incremental": false,
@@ -3093,7 +3087,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.CMoveRequest.html",
-          "hash": "SZyl8RmXtpsAnCvfMxrgQA=="
+          "hash": "RDTyRWFG0kxrzJy+xm0cng=="
         }
       },
       "is_incremental": false,
@@ -3105,7 +3099,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.CMoveResponse.html",
-          "hash": "gIrHmCIN2X2KyJPF+g9diA=="
+          "hash": "v86PWUzBNaa9vHAS09a4Cw=="
         }
       },
       "is_incremental": false,
@@ -3117,7 +3111,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.CStoreRequest.html",
-          "hash": "dvpvDWWlZANFuwR1jrEzrw=="
+          "hash": "qkPWXSwj8ExQN4hUN+bUvQ=="
         }
       },
       "is_incremental": false,
@@ -3129,7 +3123,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.CStoreResponse.html",
-          "hash": "m0wL79i1+dlHEUCCGL1uCA=="
+          "hash": "gBTizGgw7SAB01K9zvLDaA=="
         }
       },
       "is_incremental": false,
@@ -3141,7 +3135,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.AbstractDIMSEIOD.html",
-          "hash": "k5I1BB20DC4GagHHJBCafA=="
+          "hash": "E6vZGPOsLG6dQpuaAAhRAQ=="
         }
       },
       "is_incremental": false,
@@ -3153,7 +3147,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindDoseIOD.html",
-          "hash": "yl47j0myJHus6YOc7fOH0w=="
+          "hash": "Je/iEAGHPXrr1AJaynCsaw=="
         }
       },
       "is_incremental": false,
@@ -3165,7 +3159,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindImageIOD.html",
-          "hash": "FEtZtF7U2G2PoovMlAo1Sg=="
+          "hash": "fL7lrr7jgklV2L4NHr73+A=="
         }
       },
       "is_incremental": false,
@@ -3177,7 +3171,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindInstanceIOD.html",
-          "hash": "qTdsCcDf92hMh27Eul1TRg=="
+          "hash": "fdZnqWVrDw2/7dDlP905EA=="
         }
       },
       "is_incremental": false,
@@ -3189,7 +3183,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindIonBeamsRecord.html",
-          "hash": "FXGigaEiHR8pDEtrULDUHA=="
+          "hash": "PjDi8UXedRvsFAXWdxujow=="
         }
       },
       "is_incremental": false,
@@ -3201,7 +3195,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindPatientIOD.html",
-          "hash": "kMgTAbkRcSgtlPiS2OOAzg=="
+          "hash": "0zRMACEE78P1bx0Ls+J2Uw=="
         }
       },
       "is_incremental": false,
@@ -3213,7 +3207,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindPlanIOD.html",
-          "hash": "6s9N8opRcWg/KmcBoeAU5A=="
+          "hash": "Ow4VTrSZFh9sQcvXpae45Q=="
         }
       },
       "is_incremental": false,
@@ -3225,7 +3219,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindRTBeamsRecord.html",
-          "hash": "N7UCA7LLHSRIVE0U+yebKQ=="
+          "hash": "2FCet/lq9trQp1/YSuwS+A=="
         }
       },
       "is_incremental": false,
@@ -3237,7 +3231,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindRTImageIOD.html",
-          "hash": "OtaRBoL7WLk6pOiseIn0GA=="
+          "hash": "YoHtOwa426ZKkqqNaH6/Sw=="
         }
       },
       "is_incremental": false,
@@ -3249,7 +3243,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindRequestIOD.html",
-          "hash": "6PCzms2SpeeFvCrZndWgkQ=="
+          "hash": "7jSrIurgOqwuneBlgjdluQ=="
         }
       },
       "is_incremental": false,
@@ -3261,7 +3255,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindSeriesIOD.html",
-          "hash": "+cbVw8D/bLRRBlFbDBdN+g=="
+          "hash": "OTreUwyICUCDTlo1hNADcQ=="
         }
       },
       "is_incremental": false,
@@ -3273,7 +3267,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindStudyIOD.html",
-          "hash": "squHhIEjt7PuYPAbnGLyGg=="
+          "hash": "19VVE0mG0wuwkoXaBwtr7g=="
         }
       },
       "is_incremental": false,
@@ -3285,7 +3279,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CFindTreatmentRecordIOD.html",
-          "hash": "T5AvQdMaZW9IhuyXsq6IeA=="
+          "hash": "wma73PZOrL9ZtsDN5t0eUg=="
         }
       },
       "is_incremental": false,
@@ -3297,7 +3291,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.IOD.CMoveIOD.html",
-          "hash": "TU/8oQPKFz+COcbUS71AWw=="
+          "hash": "k/BJrsbQ9SPQYleZQsDygw=="
         }
       },
       "is_incremental": false,
@@ -3321,7 +3315,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.NActionRequest.html",
-          "hash": "N2nPCa/mb86REbTWG2dtAA=="
+          "hash": "VNzluBg6Zcxwl35ZVEsgPg=="
         }
       },
       "is_incremental": false,
@@ -3333,7 +3327,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.NActionResponse.html",
-          "hash": "ickZRXiucdaqwQuRs96D9g=="
+          "hash": "0couq1Rp9IsMHjUmnnLASA=="
         }
       },
       "is_incremental": false,
@@ -3345,7 +3339,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.NEventReportRequest.html",
-          "hash": "SaKm1KgQ0NuwwwvlpGv6OA=="
+          "hash": "60ug9oM/dzGe676SzlIARw=="
         }
       },
       "is_incremental": false,
@@ -3357,7 +3351,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.NEventReportResponse.html",
-          "hash": "N/ckiVUXk2RffT9MhZFPVA=="
+          "hash": "5tFFZKe3VHfqzhNzxAAInQ=="
         }
       },
       "is_incremental": false,
@@ -3369,7 +3363,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.DIMSE.ReqAbstractDIMSEBase.html",
-          "hash": "NJMrDZ3YCnBRNvUT0lOeOw=="
+          "hash": "BXPTKAWYbURLXySEi+DtYw=="
         }
       },
       "is_incremental": false,
@@ -3393,7 +3387,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Entity.html",
-          "hash": "05EvwOYN5/MFboAha5h8yw=="
+          "hash": "cRa7OKVPYKPENZvbHDqZQA=="
         }
       },
       "is_incremental": false,
@@ -3405,7 +3399,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.AbortReason.html",
-          "hash": "qLCLy3w/kStnP8TqeqYO+w=="
+          "hash": "64UjvdeC/GMzvjAbtVKsnw=="
         }
       },
       "is_incremental": false,
@@ -3417,7 +3411,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.AbortSource.html",
-          "hash": "fIj2CQx5uXxWHLM0oGEqew=="
+          "hash": "Achzy7wKGA1P6pCGesg+xA=="
         }
       },
       "is_incremental": false,
@@ -3429,7 +3423,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.CommandDataSetType.html",
-          "hash": "ZmUr6icRKDU43ofkHdwiSg=="
+          "hash": "lhAKcATdWYtRknfkfQB8mw=="
         }
       },
       "is_incremental": false,
@@ -3441,7 +3435,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.CommandField.html",
-          "hash": "tKOz+AEnC88T4XC/C0GIgQ=="
+          "hash": "3FZBwTvw+PWK6X4WOJ75Lg=="
         }
       },
       "is_incremental": false,
@@ -3453,7 +3447,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.ItemType.html",
-          "hash": "LS5bLooLnP7NkKRCrDZb0A=="
+          "hash": "zXpTJUg2tfdkVw0pz+XqYw=="
         }
       },
       "is_incremental": false,
@@ -3465,7 +3459,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.MessageType.html",
-          "hash": "uoEKq8X/AUi+KQIwsLZNSw=="
+          "hash": "kF8Fe7x0TH0LT7aAeZe3aw=="
         }
       },
       "is_incremental": false,
@@ -3477,7 +3471,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.NetworkState.html",
-          "hash": "N45mC6BiEu5+A4ETYf7MPA=="
+          "hash": "a1qB6ESo01VEfcBsV8vweA=="
         }
       },
       "is_incremental": false,
@@ -3489,7 +3483,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.PDUType.html",
-          "hash": "0AxCGjOrI2mgJkCAv0UYkw=="
+          "hash": "+18324DGEJtTLNXBIMU0yw=="
         }
       },
       "is_incremental": false,
@@ -3501,7 +3495,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.PresentationContextReason.html",
-          "hash": "xP14h0SAwYMf8pojtYZeOw=="
+          "hash": "Zmb9woAHK218kzHWNdPKHA=="
         }
       },
       "is_incremental": false,
@@ -3513,7 +3507,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.QueryLevel.html",
-          "hash": "rIm1YUbWMk80JrtPr4jVYQ=="
+          "hash": "WJ+ypQZiSTYEa5wYMg3Biw=="
         }
       },
       "is_incremental": false,
@@ -3525,7 +3519,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.RejectReason_SCP_ASCE.html",
-          "hash": "JZzSAhX4zRSfef6PpmoedQ=="
+          "hash": "ATPmMGgVlQCHbgjeFvfV7g=="
         }
       },
       "is_incremental": false,
@@ -3537,7 +3531,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.RejectReason_SCP_PRESENTATION.html",
-          "hash": "/NKKrqpHAvWFkz1tuqicYA=="
+          "hash": "UUu+0vvOZZnmabzGUD4WwA=="
         }
       },
       "is_incremental": false,
@@ -3549,7 +3543,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.RejectReason_SCU.html",
-          "hash": "Bim3lGK1uC0l8zALZmYcmA=="
+          "hash": "oeplnos35Gqc+bxUlq0/JA=="
         }
       },
       "is_incremental": false,
@@ -3561,7 +3555,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.RejectResult.html",
-          "hash": "NhnZd07K3IAy4kEmGamadw=="
+          "hash": "GzkofysVDtuRtuG5u2158Q=="
         }
       },
       "is_incremental": false,
@@ -3573,7 +3567,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.RejectSource.html",
-          "hash": "AovJw3FSL6nhXLZwBbaBbg=="
+          "hash": "nnavA+xl017C7UXnbdSFsw=="
         }
       },
       "is_incremental": false,
@@ -3585,7 +3579,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.Root.html",
-          "hash": "0b+7mVmuVbGZ2Ljj8bBe3Q=="
+          "hash": "Tq5TP6fmCFin+eypsRKxFA=="
         }
       },
       "is_incremental": false,
@@ -3597,7 +3591,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Enums.Status.html",
-          "hash": "Bxc8V/HVdVd2JVhDguTC1g=="
+          "hash": "KhXJkh9ZapjD9K5gMPL4sQ=="
         }
       },
       "is_incremental": false,
@@ -3621,7 +3615,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Extensions.AssociationExtensions.html",
-          "hash": "bz3IGFYTfWTuqtI0onEDlw=="
+          "hash": "Yy8nW6Scqj6bzFfUdRTX1g=="
         }
       },
       "is_incremental": false,
@@ -3633,7 +3627,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Extensions.DIMSEExtensions.html",
-          "hash": "T07+GlZV7UAgJ9Vh/059EQ=="
+          "hash": "3uU+31khfJKstex7974TBw=="
         }
       },
       "is_incremental": false,
@@ -3645,7 +3639,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Extensions.IIODExtensions.html",
-          "hash": "TiF+So6eF08j1Lp/+Np0cQ=="
+          "hash": "0H2Y1T8pJBdJx+40kr+k2A=="
         }
       },
       "is_incremental": false,
@@ -3669,7 +3663,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Helpers.CFind.html",
-          "hash": "BtR3Z1U+qzejzWrOepPcfQ=="
+          "hash": "/B0vxtN+3qGfu4YD459jYg=="
         }
       },
       "is_incremental": false,
@@ -3681,7 +3675,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Helpers.FileWriterSCP.html",
-          "hash": "DKLkMobJhXDlDJDZ3Wz0og=="
+          "hash": "2iWyTjgE7hpj+jpzsiV0wg=="
         }
       },
       "is_incremental": false,
@@ -3693,7 +3687,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Helpers.IpHelper.html",
-          "hash": "hflCVaac2lJqR6lwm94vEA=="
+          "hash": "2oRS2o2ZMM8yo/56zW9t8Q=="
         }
       },
       "is_incremental": false,
@@ -3705,7 +3699,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Helpers.Modality.html",
-          "hash": "G6JxCkiiJk3bLiA534fzsg=="
+          "hash": "FuDLhzk/c6NKhvbtemA0nw=="
         }
       },
       "is_incremental": false,
@@ -3765,7 +3759,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Messaging.AssociationMessenger.html",
-          "hash": "B0B4hWiBfadN3/3pQcnX3Q=="
+          "hash": "KkYQXCZproDCfIH0ZNcqhA=="
         }
       },
       "is_incremental": false,
@@ -3777,7 +3771,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Messaging.Message-1.html",
-          "hash": "17P8BPC0tt1l4AAtlaxOMg=="
+          "hash": "Z2G6lsAB25NEd7SxS0+ZOQ=="
         }
       },
       "is_incremental": false,
@@ -3789,7 +3783,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Messaging.PDataMessenger.html",
-          "hash": "oYzTWbHWHf8R8l4csSSCCQ=="
+          "hash": "VvV69Pugwrcxa5ZhLthwUQ=="
         }
       },
       "is_incremental": false,
@@ -3801,16 +3795,13 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Messaging.SendStatus.html",
-          "hash": "1MrE3ZMdWPTwLmBEDHresQ=="
+          "hash": "LcSp6OFuGaF4fWkZFbYneA=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/EvilDICOM.Network.Messaging.yml",
       "output": {
@@ -3828,7 +3819,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.Accept.html",
-          "hash": "+fEL2uOUj41VBXaRqaDW5g=="
+          "hash": "oAyjV9Gj/Tsg+h3D8SOKwA=="
         }
       },
       "is_incremental": false,
@@ -3840,7 +3831,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.Items.AsyncOperations.html",
-          "hash": "P+UvMkjImQBIimDTNO7a6g=="
+          "hash": "6vySDw8jjFoGgnZGfQ0uvw=="
         }
       },
       "is_incremental": false,
@@ -3852,7 +3843,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.Items.ItemReader.html",
-          "hash": "4VtsBeKDfy6O/T2u3E+oaA=="
+          "hash": "SbBdMmSVfSpEIiUgnlWH6A=="
         }
       },
       "is_incremental": false,
@@ -3864,7 +3855,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.Items.ItemWriter.html",
-          "hash": "63znpt9DxfqifGgs3w7NxA=="
+          "hash": "69xJF3PS0AQft7iWfsRSRg=="
         }
       },
       "is_incremental": false,
@@ -3876,7 +3867,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.Items.PDVItem.html",
-          "hash": "x8ABWNWfsBhG+u0P+pZEFQ=="
+          "hash": "wRjBLWVHGyTjINd/PmS7WQ=="
         }
       },
       "is_incremental": false,
@@ -3888,7 +3879,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.Items.PDVItemFragment.html",
-          "hash": "0cTQJ4aF/2oIAHSPsO9ZMA=="
+          "hash": "FmiFi+qMGH0+8tiXZdaUNg=="
         }
       },
       "is_incremental": false,
@@ -3900,7 +3891,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.Items.PresentationContext.html",
-          "hash": "ON3SqPQm5memAzZcMvSyUg=="
+          "hash": "f6kCCgWwcH6yue1x4/VraQ=="
         }
       },
       "is_incremental": false,
@@ -3912,7 +3903,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.Items.UserInfo.html",
-          "hash": "5afoOQUGyH6OGcqvDJ1LmA=="
+          "hash": "b+sO/6Cqxv2PNr3HjoGujw=="
         }
       },
       "is_incremental": false,
@@ -3936,7 +3927,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.PDataTF.html",
-          "hash": "8OaNYMz4cQpRyHzvBDTxmQ=="
+          "hash": "8OIt+ASqhG3h6RnAE8v1Rw=="
         }
       },
       "is_incremental": false,
@@ -3948,7 +3939,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.Reject.html",
-          "hash": "1X0u7Po8YHVjp45Hi+IUqQ=="
+          "hash": "Hgu+lpZrEJ50K/1ktnW32w=="
         }
       },
       "is_incremental": false,
@@ -3960,7 +3951,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.ReleaseRequest.html",
-          "hash": "/25/Ll2zYgUPNkn32cLizw=="
+          "hash": "qqKzIjO1Czw+OKNuFu8wlA=="
         }
       },
       "is_incremental": false,
@@ -3972,7 +3963,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.ReleaseResponse.html",
-          "hash": "wd6qsicoPZWMcjJKRypxBg=="
+          "hash": "BWbUewxBPdYD/4ghAJU93w=="
         }
       },
       "is_incremental": false,
@@ -3984,7 +3975,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.PDUs.Request.html",
-          "hash": "VvkHWmZrt+RleGxl6DHitg=="
+          "hash": "SC7NYp0IN/y7FM9JtWSsSQ=="
         }
       },
       "is_incremental": false,
@@ -4008,7 +3999,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Processors.DIMSEProcessor.html",
-          "hash": "Yh8kpgwlRRj2U0/CK4Bl1g=="
+          "hash": "mZM39GzZ8J1BPXfFFywHZg=="
         }
       },
       "is_incremental": false,
@@ -4020,7 +4011,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Processors.PDUProcessor.html",
-          "hash": "FqGYaJ9yh9H5kyqJExnj1A=="
+          "hash": "Jwq5g/vZrBi4mDTRD7FcNw=="
         }
       },
       "is_incremental": false,
@@ -4032,7 +4023,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Processors.PDataProcessor.html",
-          "hash": "Vt8Xzl87c/RDvndljqwqOg=="
+          "hash": "SAFbpEgEVuxlWJtiXc4kQA=="
         }
       },
       "is_incremental": false,
@@ -4056,7 +4047,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Readers.DIMSEReader.html",
-          "hash": "r7WRUMDfTQRrB/mKMx6SZA=="
+          "hash": "1HN7vsXI9m0kyn7BNvfkcg=="
         }
       },
       "is_incremental": false,
@@ -4068,7 +4059,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Readers.NetworkBinaryReader.html",
-          "hash": "bI4lTGhkL0QCyJ6RvK2dKg=="
+          "hash": "KBgWmKabbhVrIOdgkALxkQ=="
         }
       },
       "is_incremental": false,
@@ -4080,7 +4071,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Readers.PDUReader.html",
-          "hash": "NDpe9VZp4Drsr6+cNageog=="
+          "hash": "U9nGJY+0f88OuIe9ovthOw=="
         }
       },
       "is_incremental": false,
@@ -4104,7 +4095,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.SCUOps.CFinder.html",
-          "hash": "c46kQE6dN/MyPVITUngBDg=="
+          "hash": "6/mugs2mqZFrC1B7vEOpDA=="
         }
       },
       "is_incremental": false,
@@ -4128,7 +4119,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.SCUOps.CMover.html",
-          "hash": "L6s7JQ/QTdhem79LN416XA=="
+          "hash": "7HzDUXX2dYhzqPS5KH0Haw=="
         }
       },
       "is_incremental": false,
@@ -4140,7 +4131,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.SCUOps.CStorer.html",
-          "hash": "TIyz7tTVFoRxsYDF/CuY9g=="
+          "hash": "shksvHK/cPyRYEvj56mDNA=="
         }
       },
       "is_incremental": false,
@@ -4152,7 +4143,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.SCUOps.StorageVerifier.html",
-          "hash": "FAbMuWWj07hi+Dpw51xLhw=="
+          "hash": "z31aAg1tm1MLnFzeM3sPnQ=="
         }
       },
       "is_incremental": false,
@@ -4248,7 +4239,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Services.AssociationService.html",
-          "hash": "vgCBsEFhd7qJlvmuPL0+Jw=="
+          "hash": "7/TUu5492+RpnGGMUiyOyA=="
         }
       },
       "is_incremental": false,
@@ -4260,7 +4251,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Services.CFindService.html",
-          "hash": "lb4pK1uuopWARuDWcDXaqg=="
+          "hash": "5pWRwjWfUq8VhH6NNFOP0Q=="
         }
       },
       "is_incremental": false,
@@ -4272,7 +4263,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Services.CStoreService.html",
-          "hash": "ZNU4AzSsdTKnbed4q0ZOkw=="
+          "hash": "97AgoRBraFA7ahnLXBnktQ=="
         }
       },
       "is_incremental": false,
@@ -4320,7 +4311,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Services.DIMSEService.html",
-          "hash": "7PvIBNv+YyhT6MGozs/q9g=="
+          "hash": "+AbYnS8G47BDsf/iaBE+yw=="
         }
       },
       "is_incremental": false,
@@ -4332,7 +4323,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Services.Interfaces.IFindService-1.html",
-          "hash": "ukhS8/PpmWOURv/wl08JAg=="
+          "hash": "0b1hDP/Hb8Batq5NIvwBiA=="
         }
       },
       "is_incremental": false,
@@ -4356,7 +4347,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Services.NActionService.html",
-          "hash": "iFs3P67gqwq+7MxCFnwKfQ=="
+          "hash": "9pMhP+brXEUFkhjqIBvVzw=="
         }
       },
       "is_incremental": false,
@@ -4368,7 +4359,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Services.NEventReportService.html",
-          "hash": "2qE0jPtMIZZs6W3bsYOevQ=="
+          "hash": "iRlCVISFS9fEkT3rsFX9Aw=="
         }
       },
       "is_incremental": false,
@@ -4380,7 +4371,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.Network.Services.StorageCommitmentService.html",
-          "hash": "HUT6FidfnLVI17yEZ9pWcA=="
+          "hash": "WWYH8EnO3LhMnozuosPfdw=="
         }
       },
       "is_incremental": false,
@@ -4416,7 +4407,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.RT.Data.DVH.DVHData.html",
-          "hash": "9vS4YE4krwmfevK/c5ZKGA=="
+          "hash": "M7VzSajg0/9LZ6rc2/THdg=="
         }
       },
       "is_incremental": false,
@@ -4428,7 +4419,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.RT.Data.DVH.DVHPoint.html",
-          "hash": "gfZZB+fj94SMW0jN6LNPmQ=="
+          "hash": "NJUy2BRLK9p3A+FyWsWorg=="
         }
       },
       "is_incremental": false,
@@ -4440,7 +4431,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.RT.Data.DVH.Dose.html",
-          "hash": "5ffJrtzc0gTCzSeIEEQZhQ=="
+          "hash": "PAQHwqNluFKU7OztCpT0Nw=="
         }
       },
       "is_incremental": false,
@@ -4452,7 +4443,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.RT.Data.DVH.Volume.html",
-          "hash": "g2TvtpTFIKeH/AQFTp84vQ=="
+          "hash": "DejD0G+0sU8duJF4tAh4AQ=="
         }
       },
       "is_incremental": false,
@@ -4476,7 +4467,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.RT.Data.DoseSumType.html",
-          "hash": "/a57AIYF3uDCWkaVlgFEPg=="
+          "hash": "oQtMLJCsqngwhU5C/3jb/w=="
         }
       },
       "is_incremental": false,
@@ -4488,7 +4479,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.RT.Data.DoseUnit.html",
-          "hash": "y7mkZ+S2EqDY71j/K5KUpQ=="
+          "hash": "2K1TayHFD0nTljgTO5UaIA=="
         }
       },
       "is_incremental": false,
@@ -4500,7 +4491,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.RT.Data.PlanStatus.html",
-          "hash": "H4Har0kFm2E7EkelaaWkUg=="
+          "hash": "5WuDOtJi78S6QsSv93pyiQ=="
         }
       },
       "is_incremental": false,
@@ -4524,7 +4515,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.RT.DoseValue.html",
-          "hash": "TBHYhYD4Xfq+NQgZNDwPsw=="
+          "hash": "2jpBl7e0SqWCw7VwMruHoA=="
         }
       },
       "is_incremental": false,
@@ -4536,7 +4527,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.RT.Extensions.DICOMRTObjectExtensions.html",
-          "hash": "bQaClsjDmlMAwQQLC8ng4g=="
+          "hash": "jSlhKrh3nzoIGyYgb0eKxw=="
         }
       },
       "is_incremental": false,
@@ -4560,7 +4551,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EvilDICOM.RT.RTDose.html",
-          "hash": "NSz3X1INDBlUOWnt71hmOA=="
+          "hash": "PIq2LKpGhIxVFBFDXkz9Vg=="
         }
       },
       "is_incremental": false,
@@ -4603,6 +4594,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Evil_DICOM.Core.Helpers.Tryer.yml",
       "output": {
@@ -4615,6 +4609,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Evil_DICOM.Core.Helpers.yml",
       "output": {
@@ -4642,6 +4639,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Evil_DICOM.Network.Messaging.yml",
       "output": {
@@ -4763,11 +4763,11 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "articles/toc.md",
+      "source_relative_path": "articles/toc.yml",
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "ebHxViKNdjCEmoZiyl9nrA=="
+          "hash": "GtO8sEwhttM/jlaImwG8lQ=="
         }
       },
       "is_incremental": false,
@@ -4838,11 +4838,11 @@
     {
       "status": {
         "can_incremental": false,
-        "details": "Disable incremental build by force rebuild option.",
+        "details": "Cannot build incrementally because last build info is missing.",
         "incrementalPhase": "build",
         "total_file_count": 0,
         "skipped_file_count": 0,
-        "full_build_reason_code": "ForceRebuild"
+        "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
@@ -4876,7 +4876,7 @@
     {
       "status": {
         "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0

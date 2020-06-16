@@ -86,35 +86,11 @@
                   <div class="level0"><span class="xref">System.Object</span></div>
                   <div class="level1"><span class="xref">SliceContourMeta</span></div>
               </div>
-              <div class="inheritedMembers">
-                <h5>Inherited Members</h5>
-                <div>
-                  <span class="xref">System.Object.Equals(System.Object)</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.GetHashCode()</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.GetType()</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.MemberwiseClone()</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.ToString()</span>
-                </div>
-              </div>
               <h6><strong>Namespace</strong>:EvilDICOM.CV.RT.Meta</h6>
               <h6><strong>Assembly</strong>:EvilDICOM.CV.dll</h6>
               <h5 id="_syntax">Syntax</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public class SliceContourMeta</code></pre>
+                <pre><code class="lang-csharp hljs">public class SliceContourMeta : object</code></pre>
               </div>
               <h3 id="properties">Properties
               </h3>
@@ -140,7 +116,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EvilDICOM.CV.RT.Meta.SliceContourMeta.html">SliceContourMeta</a>&gt;</td>
+                    <td><span class="xref">List</span>&lt;<a class="xref" href="EvilDICOM.CV.RT.Meta.SliceContourMeta.html">SliceContourMeta</a>&gt;</td>
                     <td></td>
                   </tr>
                 </tbody>
@@ -166,7 +142,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;<span class="xref">OpenCvSharp.Point2f</span>&gt;</td>
+                    <td><span class="xref">List</span>&lt;<span class="xref">OpenCvSharp.Point2f</span>&gt;</td>
                     <td></td>
                   </tr>
                 </tbody>
@@ -305,7 +281,7 @@
               <div class="markdown level1 conceptual"></div>
               <h5 class="decalaration">Declaration</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public Mat DrawOnSlice(Mat txMatrix, Mat slice, double scale = 1)</code></pre>
+                <pre><code class="lang-csharp hljs">public Mat DrawOnSlice(Mat txMatrix, Mat slice, double scale = null)</code></pre>
               </div>
               <h5 class="parameters">Parameters</h5>
               <table class="table table-bordered table-striped table-condensed">
@@ -361,7 +337,7 @@ areas/holes are left black (0x00)</p>
               <div class="markdown level1 conceptual"></div>
               <h5 class="decalaration">Declaration</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public void MaskImage(Mat mask, Vec2f[] doseGridPts, byte color = 255)</code></pre>
+                <pre><code class="lang-csharp hljs">public void MaskImage(Mat mask, Vec2f[] doseGridPts, byte color = null)</code></pre>
               </div>
               <h5 class="parameters">Parameters</h5>
               <table class="table table-bordered table-striped table-condensed">
@@ -405,7 +381,7 @@ areas/holes are left black (0x00)</p>
               <div class="markdown level1 conceptual"></div>
               <h5 class="decalaration">Declaration</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public void MaskImageFast(Mat mask, Mat txMatrix, byte color = 255, double scale = 1)</code></pre>
+                <pre><code class="lang-csharp hljs">public void MaskImageFast(Mat mask, Mat txMatrix, byte color = null, double scale = null)</code></pre>
               </div>
               <h5 class="parameters">Parameters</h5>
               <table class="table table-bordered table-striped table-condensed">

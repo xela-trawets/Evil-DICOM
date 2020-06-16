@@ -105,7 +105,7 @@ namespace EvilDICOM.Core.Modules
             Tag = TagHelper.Implementation​Class​UID
         };
 
-        private readonly UniqueIdentifier _implementationVersionName = new UniqueIdentifier
+        private readonly ShortString _implementationVersionName = new ShortString
         {
             Tag = TagHelper.Implementation​Version​Name
         };

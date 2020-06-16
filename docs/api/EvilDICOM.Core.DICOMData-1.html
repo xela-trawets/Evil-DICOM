@@ -86,32 +86,11 @@ class tries to encapsulate those attributes while maintaining a flexible program
                   <div class="level0"><span class="xref">System.Object</span></div>
                   <div class="level1"><span class="xref">DICOMData&lt;T&gt;</span></div>
               </div>
-              <div class="inheritedMembers">
-                <h5>Inherited Members</h5>
-                <div>
-                  <span class="xref">System.Object.Equals(System.Object)</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.GetHashCode()</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.GetType()</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.MemberwiseClone()</span>
-                </div>
-                <div>
-                  <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
-                </div>
-              </div>
               <h6><strong>Namespace</strong>:EvilDICOM.Core</h6>
               <h6><strong>Assembly</strong>:EvilDICOM.dll</h6>
               <h5 id="_syntax">Syntax</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public class DICOMData&lt;T&gt;</code></pre>
+                <pre><code class="lang-csharp hljs">public class DICOMData&lt;T&gt; : object</code></pre>
               </div>
               <h5 class="typeParameters">Type Parameters</h5>
               <table class="table table-bordered table-striped table-condensed">
@@ -166,7 +145,7 @@ class tries to encapsulate those attributes while maintaining a flexible program
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Collections.Generic.List</span>&lt;T&gt;</td>
+                    <td><span class="xref">List</span>&lt;T&gt;</td>
                     <td></td>
                   </tr>
                 </tbody>
@@ -317,8 +296,6 @@ element, only the first is returned. If setting a value, the data is cleared and
                   </tr>
                 </tbody>
               </table>
-              <h5 class="overrides">Overrides</h5>
-              <div><span class="xref">System.Object.ToString()</span></div>
               
               <span class="small pull-right mobile-hide">
                 <a href="https://github.com/rexcardan/Evil-DICOM/blob/master/EvilDICOM/EvilDICOM/Core/DICOMData.cs/#L90">View Source</a>
